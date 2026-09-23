@@ -1,0 +1,151 @@
+Construction,Science,Colonizer,Sponsored Colonizer,Corvette,Destroyer,Cruiser,Battleship,Titan,Colossus,Juggernaut,Transport,Defense Platform,Ion Cannon,Science Ship Class Names,Corvette Class Names,Destroyer Class Names,Cruiser Class Names,Battleship Class Names,Titan Class Names,Colossus Class Names,Juggernaut Class Names,Defense Platform Class Names,Ion Cannon Class Names
+Sanctuary,Inspiration,Haven,Haven,Who Dares Wins,Point of No Return,Crusading Spirit,Wrath,Spirit of Fire,Leviathan,Marathon,Conveyance,Redoubt,Obliterator,Inspiration,Viper,Vanguard,Valiant,Leviathan,Deliverance,Resolution,Armada,Redoubt,Obliterator
+Sojourner,Faith,Solace,Solace,Shall Not Perish,Unto the Breach,Light of Faith,Revelation,Shadow of Intent,Harbinger,Justice,Lifter,Ward,Anvil,Wonder,Talon,Sentinel,Resolute,Invincible,Retribution,Silence,Anchorage,Ward,Anvil
+Opportunity,Wonder,Sanctuary,Sanctuary,Only the Good,Dying Light,Light of Ascension,Judgement,Forward unto Dawn,Overlord,Fury,Carrier,Palisade,Thunderhead,Curiosity,Javelin,Enforcer,Dauntless,Imperator,Inevitability,Ultimatum,Foundry,Palisade,Thunderhead
+Providence,Hope,Promise,Promise,Seeker of Fortune,To Boldly Go,Guiding Hand,Retribution,All Under Heaven,Paragon,Dominion,Convoy,Strongpoint,Hammerfall,Perseverance,Saber,Avenger,Intrepid,Conqueror,Imperium,Judgement,Warforge,Strongpoint,Hammerfall
+Salvation,Curiosity,Dawn,Dawn,Arm of the Law,Swift Reckoning,Steadfast Resolve,Vengeance,Pillar of Autumn,Cataclysm,Sentinel,Transitor,Shieldpost,Starbreaker,Discovery,Jackal,Predator,Relentless,Dominion,Ascendancy,Absolution,Battlement,Shieldpost,Starbreaker
+Pilgrim,Perseverance,Serenity,Serenity,On A Pale Horse,Measured Response,Radiant Oath,Repentance,Inherent Resolve,Protostar,Protector,Payload,Outguard,Longshot,Pathfinder,Lancer,Marauder,Steadfast,Devastator,Judgement,Deliverance,Rampart,Outguard,Longshot
+Whisper,Discovery,Refuge,Refuge,From Hell's Heart,Through Fire,Sacred Charge,Asunder,Will of Heaven,Skybreaker,,Porter,Defensor,Skyfire,Lodestar,Hunter,Corsair,Endeavour,Resolute,Supremacy,Oblivion,Voidhold,Defensor,Skyfire
+Creed,Atlantis,Harborlight,Harborlight,Ship of Theseus,Clear Intent,Unbroken Faith,Penitence,Inheritance of Fire,,,Drayage,Wardstone,Nightfall,Polestar,Prowler,Reaver,Triumph,Providence,Eternity,Requiem,Arsenal,Wardstone,Nightfall
+Imperative,Endeavour,Continuum,Continuum,Eye on the Horizon,Final Calculation,Ascending Will,Conviction,Bearer of Judgment,,,Relay,Linehold,Overmatch,Horizon,Striker,Warden,Victory,Bastion,Spirit of Fire,Consequence,Bastion,Linehold,Overmatch
+Wayfarer,Pathfinder,Homeward,Homeward,Odd One Out,Forward Pressure,Enduring Light,Anathema,Hand of Providence,,,Transfer,Anchorhold,Firestorm,Aurora,Charger,Paladin,Renown,Citadel,Pillar of Autumn,Last Resort,Starhold,Anchorhold,Firestorm
+Foundry,Beacon,Renewal,Renewal,Tempest of Stars,Point Taken,Vigilant Spirit,Excision,Voice of Eternity,,,Transit,Guardpoint,Voidlance,Insight,Pursuer,Centurion,Defiance,Ascendant,Inherent Resolve,Voice of Authority,Marathon,Guardpoint,Voidlance
+Framework,Reverie,Bloom,Bloom,Heavens Gate,Under Watch,Beacon of Resolve,Dominion,Law of the Void,,,Liftcraft,Wallstead,Sunspike,Surveyor,Skirmisher,Interdictor,Vigilance,Testament,Will of Heaven,Sanction,Justice,Wallstead,Sunspike
+Cornerstone,Lodestar,Newreach,Newreach,Vaults of Heaven,Firm Resolve,Sovereign Purpose,Oblivion,Echo of Dominion,,,Bearance,Shieldmark,Dreadpoint,Opportunity,Protector,Challenger,Conquest,Wrath,Void,Leviathan,Fury,Shieldmark,Dreadpoint
+Uplift,Polestar,Calmwind,Calmwind,Ode to the Brave,Final Recourse,Higher Calling,Absolution,End of Days,,,Mobilizer,Fortline,Shockline,Wayfarer,Vanguard,Guardian,Ascendant,Revelation,Covenant,Harbinger,Dominion,Fortline,Shockline
+Groundwork,Genesis,Tranquil,Tranquil,To the Victors,Breaking Point,Lasting Covenant,Indictment,Light of Judgment,,,Conductor,Redline,Warhammer,Explorer,Tempest,Vindicator,Paramount,Retribution,Olympus,Overlord,Sentinel,Redline,Warhammer
+Establisher,Horizon,Firstlight,Firstlight,Hard Landing,Hard Margin,Faithful Advance,Judicator,Edict of Stars,,,,,Deepstrike,,Victory,Spear,Sovereign,Asunder,Invictus,Paragon,Protector,Starhold,Deepstrike
+Fabricator,Aurora,Homestead,Homestead,Shoulders of Atlas,Final Bearing,Eternal Watch,Irrevocable,Covenant of Fire,,,,,Skyshatter,,Mercy,Aegis,Faith,Penitence,Prometheus,Cataclysm,,Rampart,Skyshatter
+Assembly,Insight,Venturelight,Venturelight,Winds of Winter,Decisive Force,Boundless Horizons,Vigilance,Promise Unbroken,,,,,Starfall,,Covenant,Protector,Resolve,Conviction,,Protostar,,Gatekeeper,Starfall
+Infraset,Luminary,Everhome,Everhome,Arrows of Hercules,Direct Action,Cleansing Fire,Shieldbreaker,Sovereignty of Stars,,,,,Deadlock,,Trinity,Tempest,Covenant,Excision,,Skybreaker,,Fortress,Deadlock
+Outfitter,Surveyor,Lifeline,Lifeline,Eminent Marksman,Hard Vector,Measured Conviction,Eclipse,Judgment of Stars,,,,,Ballista,,Phoenix,Victory,Conviction,Oblivion,,,,Shield,Ballista
+,Searcher,Hearth,Hearth,Ashes of the Wake,Absolute Measure,Final Benediction,Unwavering,Olympus,,,,,,,Valkyrie,Mercy,Vigil,Absolution,,,,Protector,Longbow
+,,Voyage,Voyage,Fear No Evil,Applied Pressure,Illuminated Path,Spear,Invictus,,,,,,,Lightning,Covenant,Advance,Irrevocable,,,,Defender,Lightning
+,,Homebound,Homebound,Through the Valley,Calculated Strike,Patient Resolve,Gravitas,Prometheus,,,,,,,,Trinity,Ascent,Vigilance,,,,Watchtower,Tempest
+,,Shelter,Shelter,No Safe Harbor,Steel Intent,Silent Covenant,Bastion,Event Horizon,,,,,,,,Phoenix,Horizon,Shieldbreaker,,,,Watchman,Thunderbolt
+,,Newhaven,Newhaven,Close the Distance,Kinetic Resolve,Uplifted Purpose,Overseer,,,,,,,,,Valkyrie,Hallowed,Eclipse,,,,Guardian,Stormcaller
+,,Calmreach,Calmreach,Against All Odds,Grave Consideration,Golden Vigil,Sentinel,,,,,,,,,Thunder,Beacon,Unwavering,,,,Aegis,Javelin
+,,Brightwater,Brightwater,By Any Measure,Dominant Position,Enduring Accord,Aegis,,,,,,,,,,Spear,Spear,,,,Sentinel,Lance
+,,Halloway,Halloway,No Second Chances,Stern Judgment,Watchful Promise,Custodian,,,,,,,,,,Aegis,Gravitas,,,,,Spear
+,,Sunward,Sunward,Last Light Burning,Terminal Intent,Hallowed Advance,Bulwark,,,,,,,,,,Paladin,Overseer,,,,,Judgement
+,,Tranquility,Tranquility,Edge of Reason,Cold Resolve,Measured Vigilance,Wardship,,,,,,,,,,,Sentinel,,,,,Long Reach
+,,,,Blood Earned,Force Projection,Radiant Ascent,Steadfast,,,,,,,,,,,Aegis,,,,,Skybreaker
+,,,,Stand Your Ground,Hard Directive,Steady Horizon,Paladin,,,,,,,,,,,Paladin,,,,,Sunspear
+,,,,One Last Push,Forward Posture,Consecrated Will,Justicar,,,,,,,,,,,Justicar,,,,,Stormlance
+,,,,Close Quarters,Operational Edge,Guided Conviction,Protector,,,,,,,,,,,Protector,,,,,Starhammer
+,,,,No Way Out,Grim Determination,Unyielding Beacon,Vanguard,,,,,,,,,,,Vanguard,,,,,
+,,,,Hard to Kill,Tactical Supremacy,Faithful Horizon,Safeguard,,,,,,,,,,,Defender,,,,,
+,,,,Last One Standing,Calculated Force,Light Beyond Measure,Watchman,,,,,,,,,,,Bastille,,,,,
+,,,,Stand and Deliver,Steel Mandate,Quiet Dominion,Citadel,,,,,,,,,,,Shieldwall,,,,,
+,,,,No Turning Back,Lethal Vector,Enduring Promise,Defender,,,,,,,,,,,Pillar,,,,,
+,,,,Hold the Line,Controlled Impact,Measured Vigil,Bastille,,,,,,,,,,,Shieldbearer,,,,,
+,,,,Earned the Hard Way,Command Decision,Noble Bearing,Reliquary,,,,,,,,,,,Sentience,,,,,
+,,,,Stay the Course,Final Vector,Patient Covenant,Preserver,,,,,,,,,,,Highwarden,,,,,
+,,,,Right to the End,Hard Authority,Steady Ascent,Standfast,,,,,,,,,,,Safekeeper,,,,,
+,,,,Never Back Down,Kinetic Posture,Luminous Charge,Shieldwall,,,,,,,,,,,Hunter,,,,,
+,,,,Win or Break,Measured Advance,Watchful Accord,Pillar,,,,,,,,,,,Everest,,,,,
+,,,,No Room to Yield,Strategic Pressure,Sacred Horizon,Shieldbearer,,,,,,,,,,,Virtue,,,,,
+,,,,Not Without Cost,Force in Being,Guided Resolve,Sentience,,,,,,,,,,,Endurance,,,,,
+,,,,Stand to Reason,Cold Arithmetic,Golden Mandate,Highwarden,,,,,,,,,,,Tempest,,,,,
+,,,,Take No Comfort,Clear Mandate,Lasting Vigilance,Auctoritas,,,,,,,,,,,Arbiter,,,,,
+,,,,Against All Reason,Decisive Margin,Uplifted Watch,Safekeeper,,,,,,,,,,,Odyssey,,,,,
+,,,,All or Nothing,Locked Trajectory,Radiant Purpose,Hunter,,,,,,,,,,,Atlas,,,,,
+,,,,Weight of Silence,Firm Calculation,Faithbound Course,Everest,,,,,,,,,,,Summit,,,,,
+,,,,None Shall Pass,Unyielding Course,Silent Steward,Virtue,,,,,,,,,,,Enduring,,,,,
+,,,,Before the Storm,Hard Assessment,Everlasting Oath,Resolute,,,,,,,,,,,Northstar,,,,,
+,,,,Cost of Victory,Weight of Force,Unbroken Mandate,Endurance,,,,,,,,,,,Severance,,,,,
+,,,,Break the Odds,Grim Intent,Hallowed Bearing,Tempest,,,,,,,,,,,Victory,,,,,
+,,,,End of Patience,Force Applied,Clear Conscience,Arbiter,,,,,,,,,,,Mercy,,,,,
+,,,,Terms of Engagement,Final Alignment,Ascendant Watch,Odyssey,,,,,,,,,,,Covenant,,,,,
+,,,,By Stern Measure,Forward Momentum,Serene Authority,Atlas,,,,,,,,,,,Ascension,,,,,
+,,,,Last Best Option,Controlled Violence,Guiding Covenant,Venture,,,,,,,,,,,Anchor,,,,,
+,,,,No Further Appeal,Tactical Resolve,Illumed Resolve,Summit,,,,,,,,,,,Infinity,,,,,
+,,,,Claim the Field,Operational Finality,Steady Conviction,Reliant,,,,,,,,,,,Trinity,,,,,
+,,,,Time on Target,Sustained Pressure,Enduring Beacon,Enduring,,,,,,,,,,,Phoenix,,,,,
+,,,,Against the Clock,Pointed Response,Noble Ascent,Harbor,,,,,,,,,,,Valkyrie,,,,,
+,,,,No Safe Margin,Steel Determination,Vigilant Accord,Northstar,,,,,,,,,,,,,,,,
+,,,,Clear the Way,Command Presence,Consecrated Path,Severance,,,,,,,,,,,,,,,,
+,,,,No Easy Exit,Hard Contingency,Measured Oath,Victory,,,,,,,,,,,,,,,,
+,,,,Bound by Duty,Calculated Bearing,Boundless Vigil,Mercy,,,,,,,,,,,,,,,,
+,,,,On Final Approach,Direct Mandate,Patient Authority,Excalibur,,,,,,,,,,,,,,,,
+,,,,End of Argument,Force Concentration,Luminous Promise,Watchtower,,,,,,,,,,,,,,,,
+,,,,By Iron Will,Cold Authority,Sacred Continuance,Guardian,,,,,,,,,,,,,,,,
+,,,,At All Costs,Orbital Patience,Faithful Mandate,Ascendance,,,,,,,,,,,,,,,,
+,,,,Endure and Advance,Fixed Outcome,Steadfast Horizon,Covenant,,,,,,,,,,,,,,,,
+,,,,No Margin Left,Sharp Boundary,Golden Continuum,Providence,,,,,,,,,,,,,,,,
+,,,,Bound to Finish,Inescapable Angle,Enduring Charge,Ascension,,,,,,,,,,,,,,,,
+,,,,Weight Before Words,Hard Intercept,Light of Purpose,Pinnacle,,,,,,,,,,,,,,,,
+,,,,Advance Without Pause,Terminal Window,Path of Continuance,Anchor,,,,,,,,,,,,,,,,
+,,,,Pay What's Due,Black Interval,Promise Beyond Reach,Foundation,,,,,,,,,,,,,,,,
+,,,,Under Full Power,Operational Depth,Watchers of Dawn,Infinity,,,,,,,,,,,,,,,,
+,,,,Press Until Broken,Grave Trajectory,Oath Without End,Outrider,,,,,,,,,,,,,,,,
+,,,,Stand Beyond Fear,Narrow Margin,Quiet Conviction,Trinity,,,,,,,,,,,,,,,,
+,,,,No Further Delay,Steel Silence,Enduring Mandate,Phoenix,,,,,,,,,,,,,,,,
+,,,,Hard Limits Enforced,Decisive Contact,Radiant Vigilance,Valkyrie,,,,,,,,,,,,,,,,
+,,,,Hold Through Fire,Relentless Arc,Guided Bearing,,,,,,,,,,,,,,,,,
+,,,,Driven by Purpose,Closed Equation,Steady Purpose,,,,,,,,,,,,,,,,,
+,,,,Carry It Forward,Iron Crossing,Illuminated Accord,,,,,,,,,,,,,,,,,
+,,,,No Ground Given,Last Vector,Golden Horizon,,,,,,,,,,,,,,,,,
+,,,,Stand Without Mercy,Deep Posture,Serene Resolve,,,,,,,,,,,,,,,,,
+,,,,By Measured Force,Pressure Point,Hallowed Continuum,,,,,,,,,,,,,,,,,
+,,,,Held Against Fire,Cold Solution,Watchful Bearing,,,,,,,,,,,,,,,,,
+,,,,No Terms Given,Absolute Bearing,Lasting Ascent,,,,,,,,,,,,,,,,,
+,,,,Under Silent Oath,Hard Alignment,Consecrated Horizon,,,,,,,,,,,,,,,,,
+,,,,Lines Held Firm,Zero Latitude,Unbroken Vigilance,,,,,,,,,,,,,,,,,
+,,,,Strength Under Pressure,Final Approach Vector,Stewarded Purpose,,,,,,,,,,,,,,,,,
+,,,,Chosen by Fire,Tactical Inertia,Luminous Accord,,,,,,,,,,,,,,,,,
+,,,,Against Final Measure,Locked Outcome,Calm Dominion,,,,,,,,,,,,,,,,,
+,,,,Hard Truth Accepted,Red Horizon,Enduring Steward,,,,,,,,,,,,,,,,,
+,,,,Hold Through Darkness,Sealed Fate,Enduring Guardian,,,,,,,,,,,,,,,,,
+,,,,Beyond Expected Loss,Orbital Supremacy,Quiet Reliquary,,,,,,,,,,,,,,,,,
+,,,,No Path Back,Fixed Decision,Radiant Concord,,,,,,,,,,,,,,,,,
+,,,,Intent Made Clear,Hard Boundary,,,,,,,,,,,,,,,,,,
+,,,,Weight of Duty,Terminal Balance,,,,,,,,,,,,,,,,,,
+,,,,Taken Without Regret,No Deviation Allowed,,,,,,,,,,,,,,,,,,
+,,,,Forward No Matter,Iron Wake,,,,,,,,,,,,,,,,,,
+,,,,Stand Past Limits,Silent Boundary,,,,,,,,,,,,,,,,,,
+,,,,By Cold Judgment,Grave Offset,,,,,,,,,,,,,,,,,,
+,,,,Without False Hope,Orbital Fracture,,,,,,,,,,,,,,,,,,
+,,,,Final Line Drawn,Cold Wakefield,,,,,,,,,,,,,,,,,,
+,,,,Nothing Held Back,Tactical Eclipse,,,,,,,,,,,,,,,,,,
+,,,,Duty Above Fear,Dark Bearing,,,,,,,,,,,,,,,,,,
+,,,,Beyond Reasonable Doubt,Fixed Crossing,,,,,,,,,,,,,,,,,,
+,,,,Endurance Under Fire,Severed Path,,,,,,,,,,,,,,,,,,
+,,,,Hard Choices Made,Heavy Silence,,,,,,,,,,,,,,,,,,
+,,,,Bound to Advance,Locked Meridian,,,,,,,,,,,,,,,,,,
+,,,,No Retreat Given,Orbital Divide,,,,,,,,,,,,,,,,,,
+,,,,Until It Breaks,Hard Vectoring,,,,,,,,,,,,,,,,,,
+,,,,Bearing the Weight,Narrow Corridor,,,,,,,,,,,,,,,,,,
+,,,,Stand Under Orders,Dead Angle,,,,,,,,,,,,,,,,,,
+,,,,Taken by Force,Cold Passage,,,,,,,,,,,,,,,,,,
+,,,,Past Breaking Point,Iron Parallax,,,,,,,,,,,,,,,,,,
+,,,,Strength Over Fear,Fractured Horizon,,,,,,,,,,,,,,,,,,
+,,,,Duty Without End,Final Threshold,,,,,,,,,,,,,,,,,,
+,,,,No Quarter Given,Hostile Passage,,,,,,,,,,,,,,,,,,
+,,,,Hard Line Kept,Silent Escalation,,,,,,,,,,,,,,,,,,
+,,,,Chosen to Hold,Broken Symmetry,,,,,,,,,,,,,,,,,,
+,,,,Final Stand Taken,,,,,,,,,,,,,,,,,,,
+,,,,Settle the Account,,,,,,,,,,,,,,,,,,,
+,,,,No Mercy Given,,,,,,,,,,,,,,,,,,,
+,,,,Chosen to Advance,,,,,,,,,,,,,,,,,,,
+,,,,Marked for Action,,,,,,,,,,,,,,,,,,,
+,,,,Through Relentless Fire,,,,,,,,,,,,,,,,,,,
+,,,,Taken at Velocity,,,,,,,,,,,,,,,,,,,
+,,,,Hold Until Spent,,,,,,,,,,,,,,,,,,,
+,,,,Forward Under Fire,,,,,,,,,,,,,,,,,,,
+,,,,No Time Remaining,,,,,,,,,,,,,,,,,,,
+,,,,By Relentless Measure,,,,,,,,,,,,,,,,,,,
+,,,,Committed to Impact,,,,,,,,,,,,,,,,,,,
+,,,,Weight of Consequence,,,,,,,,,,,,,,,,,,,
+,,,,Under Constant Pressure,,,,,,,,,,,,,,,,,,,
+,,,,Nothing Left Unsaid,,,,,,,,,,,,,,,,,,,
+,,,,Drawn Into Fire,,,,,,,,,,,,,,,,,,,
+,,,,No Choice Remaining,,,,,,,,,,,,,,,,,,,
+,,,,Against Heavy Odds,,,,,,,,,,,,,,,,,,,
+,,,,Carried Through Fire,,,,,,,,,,,,,,,,,,,
+,,,,Flown Beyond Limits,,,,,,,,,,,,,,,,,,,
+,,,,Held Until End,,,,,,,,,,,,,,,,,,,
+,,,,Bound for Contact,,,,,,,,,,,,,,,,,,,
+,,,,Through the Void,,,,,,,,,,,,,,,,,,,
+,,,,Without Further Warning,,,,,,,,,,,,,,,,,,,
+,,,,Held Against Odds,,,,,,,,,,,,,,,,,,,

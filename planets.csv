@@ -1,0 +1,1668 @@
+Climate Zone,Core Planet Biome,Planet Variant,Planet Name
+WET,Continental,Retinal,Iris
+WET,Continental,Retinal,Aurora
+WET,Continental,Retinal,Auralis
+WET,Continental,Retinal,Kaleido
+WET,Continental,Retinal,Lucent
+WET,Continental,Retinal,Opaline
+WET,Continental,Retinal,Celestria
+WET,Continental,Retinal,Berylia
+WET,Continental,Retinal,Xanthalis
+WET,Continental,Retinal,Mizra
+WET,Continental,Lake,Halea
+WET,Continental,Lake,Eden
+WET,Continental,Lake,Haven
+WET,Continental,Lake,Harmony
+WET,Continental,Lake,Demeter
+WET,Continental,Lake,Gaea
+WET,Continental,Lake,Varuna
+WET,Continental,Lake,Elara
+WET,Continental,Lake,Rhea
+WET,Continental,Lake,Ilara
+WET,Continental,Lake,Erilla
+WET,Continental,Lake,Oura
+WET,Continental,Lake,Genevah
+WET,Continental,Lake,Lochsa
+WET,Continental,Forest,Verdant
+WET,Continental,Forest,Sylvaris
+WET,Continental,Forest,Harvest
+WET,Continental,Forest,Veridian
+WET,Continental,Forest,Verdan
+WET,Continental,Forest,Tanalorr
+WET,Continental,Forest,Myrkr
+WET,Continental,Forest,Iskera
+WET,Continental,Forest,Soryth
+WET,Continental,Forest,Sylvan
+WET,Continental,Forest,Alder
+WET,Continental,Forest,Vervain
+WET,Continental,Forest,Pinenia
+WET,Continental,Forest,Arken
+WET,Continental,Forest,Hatteras
+WET,Continental,Tepid,Eden
+WET,Continental,Tepid,Harmonis
+WET,Continental,Tepid,Harmony
+WET,Continental,Tepid,Haven
+WET,Continental,Tepid,Gaea
+WET,Continental,Tepid,Halcyon
+WET,Continental,Tepid,Veridian
+WET,Continental,Tepid,Ephyra
+WET,Continental,Tepid,Solara
+WET,Continental,Tepid,Asana
+WET,Continental,Tepid,Caledon
+WET,Continental,Mushroom,Myrkr
+WET,Continental,Mushroom,Iskera
+WET,Continental,Mushroom,Soryth
+WET,Continental,Mushroom,Karkaris
+WET,Continental,Mushroom,Sarkosis
+WET,Continental,Mushroom,Kibastea
+WET,Continental,Mushroom,Kalypsis
+WET,Continental,Mushroom,Vervain
+WET,Continental,Sakura,Halea
+WET,Continental,Sakura,Aurelia
+WET,Continental,Sakura,Ephyra
+WET,Continental,Sakura,Berylia
+WET,Continental,Sakura,Solara
+WET,Continental,Sakura,Vespera
+WET,Continental,Sakura,Adara
+WET,Continental,Sakura,Cassia
+WET,Continental,Sakura,Selonia
+WET,Continental,Moss,Verdant
+WET,Continental,Moss,Sylvaris
+WET,Continental,Moss,Veridian
+WET,Continental,Moss,Myrkr
+WET,Continental,Moss,Iskera
+WET,Continental,Moss,Sylvan
+WET,Continental,Moss,Vervain
+WET,Continental,Moss,Alder
+WET,Continental,Moss,Lochsa
+WET,Continental,Marsh,Tigris
+WET,Continental,Marsh,Estuary
+WET,Continental,Marsh,Varuna
+WET,Continental,Marsh,Iskera
+WET,Continental,Marsh,Soryth
+WET,Continental,Marsh,Maris
+WET,Continental,Marsh,Cychia
+WET,Continental,Marsh,Oura
+WET,Continental,Marsh,Selonia
+WET,Continental,Marsh,Currituck
+WET,Continental,Marsh,Hatteras
+WET,Continental,Carotene,Surtr
+WET,Continental,Carotene,Phaeton
+WET,Continental,Carotene,Pyr
+WET,Continental,Carotene,Aurora
+WET,Continental,Carotene,Solara
+WET,Continental,Carotene,Electrion
+WET,Continental,Carotene,Lucent
+WET,Continental,Carotene,Vespera
+WET,Continental,Carotene,Adara
+WET,Continental,Petrified,Tarren
+WET,Continental,Petrified,Kessel
+WET,Continental,Petrified,Myrkr
+WET,Continental,Petrified,Volund
+WET,Continental,Petrified,Sarken
+WET,Continental,Petrified,Karkaris
+WET,Continental,Petrified,Karthakk
+WET,Continental,Petrified,Rhenvar
+WET,Continental,Megaflora,Verdant
+WET,Continental,Megaflora,Lotus
+WET,Continental,Megaflora,Sylvaris
+WET,Continental,Megaflora,Harvest
+WET,Continental,Megaflora,Veridian
+WET,Continental,Megaflora,Tanalorr
+WET,Continental,Megaflora,Iskera
+WET,Continental,Megaflora,Sylvan
+WET,Continental,Megaflora,Vervain
+WET,Continental,Megaflora,Pinenia
+WET,Continental,Megaflora,Genevah
+WET,Ocean,Cascadian,Targea
+WET,Ocean,Cascadian,Thalassa
+WET,Ocean,Cascadian,Pelagos
+WET,Ocean,Cascadian,Estuary
+WET,Ocean,Cascadian,Seatos
+WET,Ocean,Cascadian,Varuna
+WET,Ocean,Cascadian,Ephyra
+WET,Ocean,Cascadian,Kythera
+WET,Ocean,Cascadian,Maris
+WET,Ocean,Cascadian,Nereus
+WET,Ocean,Cascadian,Oura
+WET,Ocean,Cascadian,Selonia
+WET,Ocean,Cascadian,Hatteras
+WET,Ocean,Swamp,Tigris
+WET,Ocean,Swamp,Estuary
+WET,Ocean,Swamp,Varuna
+WET,Ocean,Swamp,Iskera
+WET,Ocean,Swamp,Soryth
+WET,Ocean,Swamp,Myrkr
+WET,Ocean,Swamp,Maris
+WET,Ocean,Swamp,Cychia
+WET,Ocean,Swamp,Oura
+WET,Ocean,Swamp,Currituck
+WET,Ocean,Swamp,Hatteras
+WET,Ocean,Crag,Crait
+WET,Ocean,Crag,Targea
+WET,Ocean,Crag,Vardos
+WET,Ocean,Crag,Seatos
+WET,Ocean,Crag,Kessel
+WET,Ocean,Crag,Kharon
+WET,Ocean,Crag,Kydon
+WET,Ocean,Crag,Xylos
+WET,Ocean,Crag,Kettos
+WET,Ocean,Crag,Karthakk
+WET,Ocean,Fog,Myrkr
+WET,Ocean,Fog,Soryth
+WET,Ocean,Fog,Seatos
+WET,Ocean,Fog,Nocturne
+WET,Ocean,Fog,Wimeaux
+WET,Ocean,Fog,Soriuq
+WET,Ocean,Fog,Lochsa
+WET,Ocean,Fog,Hatteras
+WET,Ocean,Kelp,Thalassa
+WET,Ocean,Kelp,Pelagos
+WET,Ocean,Kelp,Varuna
+WET,Ocean,Kelp,Seatos
+WET,Ocean,Kelp,Maris
+WET,Ocean,Kelp,Nereus
+WET,Ocean,Kelp,Cychia
+WET,Ocean,Kelp,Oura
+WET,Ocean,Kelp,Selonia
+WET,Ocean,Algae,Thalassa
+WET,Ocean,Algae,Pelagos
+WET,Ocean,Algae,Varuna
+WET,Ocean,Algae,Maris
+WET,Ocean,Algae,Cychia
+WET,Ocean,Algae,Oura
+WET,Ocean,Algae,Selonia
+WET,Ocean,Columnar,Kessel
+WET,Ocean,Columnar,Kharon
+WET,Ocean,Columnar,Vardos
+WET,Ocean,Columnar,Atlas
+WET,Ocean,Columnar,Xylos
+WET,Ocean,Columnar,Cruxos
+WET,Ocean,Columnar,Karthakk
+WET,Ocean,Tidepool,Estuary
+WET,Ocean,Tidepool,Seatos
+WET,Ocean,Tidepool,Ephyra
+WET,Ocean,Tidepool,Kythera
+WET,Ocean,Tidepool,Maris
+WET,Ocean,Tidepool,Oura
+WET,Ocean,Tidepool,Selonia
+WET,Ocean,Tidepool,Hatteras
+WET,Ocean,Barnacle,Kraken
+WET,Ocean,Barnacle,Leviathan
+WET,Ocean,Barnacle,Aegir
+WET,Ocean,Barnacle,Bathys
+WET,Ocean,Barnacle,Pelagos
+WET,Ocean,Barnacle,Seatos
+WET,Ocean,Barnacle,Nereus
+WET,Ocean,Barnacle,Calypsor
+WET,Ocean,Barnacle,Kettos
+WET,Ocean,Reef,Thalassa
+WET,Ocean,Reef,Pelagos
+WET,Ocean,Reef,Seatos
+WET,Ocean,Reef,Varuna
+WET,Ocean,Reef,Ephyra
+WET,Ocean,Reef,Calypsor
+WET,Ocean,Reef,Maris
+WET,Ocean,Reef,Nereus
+WET,Ocean,Reef,Cychia
+WET,Ocean,Reef,Oura
+WET,Ocean,Reef,Selonia
+WET,Ocean,Archipelago,Thalassa
+WET,Ocean,Archipelago,Pelagos
+WET,Ocean,Archipelago,Estuary
+WET,Ocean,Archipelago,Oasis
+WET,Ocean,Archipelago,Seatos
+WET,Ocean,Archipelago,Varuna
+WET,Ocean,Archipelago,Ephyra
+WET,Ocean,Archipelago,Kythera
+WET,Ocean,Archipelago,Maris
+WET,Ocean,Archipelago,Oura
+WET,Ocean,Archipelago,Selonia
+WET,Ocean,Archipelago,Hatteras
+WET,Tropical,Atoll,Halea
+WET,Tropical,Atoll,Eden
+WET,Tropical,Atoll,Oasis
+WET,Tropical,Atoll,Thalassa
+WET,Tropical,Atoll,Pelagos
+WET,Tropical,Atoll,Seatos
+WET,Tropical,Atoll,Varuna
+WET,Tropical,Atoll,Ephyra
+WET,Tropical,Atoll,Maris
+WET,Tropical,Atoll,Oura
+WET,Tropical,Atoll,Selonia
+WET,Tropical,Tepui,Targea
+WET,Tropical,Tepui,Atlas
+WET,Tropical,Tepui,Kharon
+WET,Tropical,Tepui,Kydon
+WET,Tropical,Tepui,Xylos
+WET,Tropical,Tepui,Arctis
+WET,Tropical,Tepui,Karthakk
+WET,Tropical,Mangrove,Estuary
+WET,Tropical,Mangrove,Varuna
+WET,Tropical,Mangrove,Iskera
+WET,Tropical,Mangrove,Maris
+WET,Tropical,Mangrove,Cychia
+WET,Tropical,Mangrove,Oura
+WET,Tropical,Mangrove,Selonia
+WET,Tropical,Mangrove,Hatteras
+WET,Tropical,Cenote,Oasis
+WET,Tropical,Cenote,Kessel
+WET,Tropical,Cenote,Abyr
+WET,Tropical,Cenote,Kharon
+WET,Tropical,Cenote,Oxum
+WET,Tropical,Cenote,Oura
+WET,Tropical,Cenote,Athiss
+WET,Tropical,Fungal,Myrkr
+WET,Tropical,Fungal,Iskera
+WET,Tropical,Fungal,Soryth
+WET,Tropical,Fungal,Karkaris
+WET,Tropical,Fungal,Sarkosis
+WET,Tropical,Fungal,Kibastea
+WET,Tropical,Fungal,Kalypsis
+WET,Tropical,Fungal,Vervain
+WET,Tropical,Aerial,Eyrie
+WET,Tropical,Aerial,Aerius
+WET,Tropical,Aerial,Caelis
+WET,Tropical,Aerial,Aetheris
+WET,Tropical,Aerial,Etheria
+WET,Tropical,Aerial,Zephryon
+WET,Tropical,Aerial,Zypher
+WET,Tropical,Aerial,Saion
+WET,Tropical,Aerial,Aeroid
+WET,Tropical,Lilypad,Lotus
+WET,Tropical,Lilypad,Halea
+WET,Tropical,Lilypad,Varuna
+WET,Tropical,Lilypad,Ilara
+WET,Tropical,Lilypad,Oura
+WET,Tropical,Lilypad,Selonia
+WET,Tropical,Obsidian,Surtr
+WET,Tropical,Obsidian,Pyr
+WET,Tropical,Obsidian,Kharon
+WET,Tropical,Obsidian,Typhon
+WET,Tropical,Obsidian,Orcus
+WET,Tropical,Obsidian,Xylos
+WET,Tropical,Obsidian,Karkaris
+WET,Tropical,Obsidian,Cruxos
+WET,Tropical,Obsidian,Korriban
+WET,Tropical,Thunder,Tempest
+WET,Tropical,Thunder,Typhon
+WET,Tropical,Thunder,Zypher
+WET,Tropical,Thunder,Zephryon
+WET,Tropical,Thunder,Electrion
+WET,Tropical,Thunder,Cyclonis
+WET,Tropical,Thunder,Vortexos
+WET,Tropical,Thunder,Sypso
+WET,Tropical,Thunder,Cosmara
+WET,Tropical,Geothermal,Surtr
+WET,Tropical,Geothermal,Phaeton
+WET,Tropical,Geothermal,Pyr
+WET,Tropical,Geothermal,Typhon
+WET,Tropical,Geothermal,Helior
+WET,Tropical,Geothermal,Ilios
+WET,Tropical,Geothermal,Solith
+WET,Tropical,Geothermal,Thermalis
+WET,Tropical,Geothermal,Korriban
+WET,Tropical,Bioluminescent,Aurora
+WET,Tropical,Bioluminescent,Iris
+WET,Tropical,Bioluminescent,Auralis
+WET,Tropical,Bioluminescent,Caelis
+WET,Tropical,Bioluminescent,Belyra
+WET,Tropical,Bioluminescent,Xanthalis
+WET,Tropical,Bioluminescent,Krysolis
+WET,Tropical,Bioluminescent,Berylia
+WET,Tropical,Bioluminescent,Aetheris
+WET,Tropical,Bioluminescent,Etheria
+WET,Tropical,Bioluminescent,Opaline
+WET,Tropical,Bioluminescent,Celestria
+WET,Tropical,Bioluminescent,Lucent
+WET,Tropical,Bioluminescent,Vespera
+WET,Tropical,Bioluminescent,Mizra
+DRY,Desert,Dune,Surtr
+DRY,Desert,Dune,Pyr
+DRY,Desert,Dune,Targea
+DRY,Desert,Dune,Kharon
+DRY,Desert,Dune,Bathys
+DRY,Desert,Dune,Byss
+DRY,Desert,Dune,Seatos
+DRY,Desert,Dune,Kydon
+DRY,Desert,Dune,Xylos
+DRY,Desert,Dune,Scarto
+DRY,Desert,Dune,Zertos
+DRY,Desert,Dune,Perma
+DRY,Desert,Dune,Sunder
+DRY,Desert,Dune,Kettos
+DRY,Desert,Dune,Erkit
+DRY,Desert,Dune,Makeb
+DRY,Desert,Dune,Korriban
+DRY,Desert,Dune,Ruusan
+DRY,Desert,Dune,Kalar
+DRY,Desert,Dune,Kura
+DRY,Desert,Dune,Madray
+DRY,Desert,Oasis,Eden
+DRY,Desert,Oasis,Haven
+DRY,Desert,Oasis,Lotus
+DRY,Desert,Oasis,Oasis
+DRY,Desert,Oasis,Prosperis
+DRY,Desert,Oasis,Halea
+DRY,Desert,Oasis,Gaea
+DRY,Desert,Oasis,Varuna
+DRY,Desert,Oasis,Ilara
+DRY,Desert,Oasis,Solara
+DRY,Desert,Oasis,Elysia
+DRY,Desert,Oasis,Opaline
+DRY,Desert,Oasis,Oura
+DRY,Desert,Oasis,Adara
+DRY,Desert,Oasis,Savis
+DRY,Desert,Oasis,Selonia
+DRY,Desert,Oasis,Genevah
+DRY,Desert,Oasis,Luray
+DRY,Desert,Outback,Tawka
+DRY,Desert,Outback,Mesa
+DRY,Desert,Outback,Baran
+DRY,Desert,Outback,Tarren
+DRY,Desert,Outback,Harvest
+DRY,Desert,Outback,Frontier
+DRY,Desert,Outback,Verdan
+DRY,Desert,Outback,Tanalorr
+DRY,Desert,Outback,Soryth
+DRY,Desert,Outback,Olega
+DRY,Desert,Outback,Kuat
+DRY,Desert,Outback,Feros
+DRY,Desert,Outback,Sarken
+DRY,Desert,Outback,Armia
+DRY,Desert,Outback,Morelan
+DRY,Desert,Outback,Currituck
+DRY,Desert,Outback,Wyan
+DRY,Desert,Coastal,Halea
+DRY,Desert,Coastal,Targea
+DRY,Desert,Coastal,Thalassa
+DRY,Desert,Coastal,Pelagos
+DRY,Desert,Coastal,Estuary
+DRY,Desert,Coastal,Seatos
+DRY,Desert,Coastal,Varuna
+DRY,Desert,Coastal,Ephyra
+DRY,Desert,Coastal,Kythera
+DRY,Desert,Coastal,Maris
+DRY,Desert,Coastal,Vesara
+DRY,Desert,Coastal,Sotera
+DRY,Desert,Coastal,Cassia
+DRY,Desert,Coastal,Selonia
+DRY,Desert,Coastal,Caledon
+DRY,Desert,Coastal,Hatteras
+DRY,Desert,Fungi,Myrkr
+DRY,Desert,Fungi,Iskera
+DRY,Desert,Fungi,Soryth
+DRY,Desert,Fungi,Karkaris
+DRY,Desert,Fungi,Sarkosis
+DRY,Desert,Fungi,Kibastea
+DRY,Desert,Fungi,Vervain
+DRY,Desert,Fungi,Kalypsis
+DRY,Desert,Fungi,Kettos
+DRY,Desert,Ironsand,Surtr
+DRY,Desert,Ironsand,Crait
+DRY,Desert,Ironsand,Scarif
+DRY,Desert,Ironsand,Mesa
+DRY,Desert,Ironsand,Tigris
+DRY,Desert,Ironsand,Baran
+DRY,Desert,Ironsand,Cindor
+DRY,Desert,Ironsand,Kharon
+DRY,Desert,Ironsand,Targea
+DRY,Desert,Ironsand,Korriban
+DRY,Desert,Ironsand,Moraban
+DRY,Desert,Ironsand,Karthakk
+DRY,Desert,Ironsand,Almorra
+DRY,Desert,Cactus,Tawka
+DRY,Desert,Cactus,Tigris
+DRY,Desert,Cactus,Mesa
+DRY,Desert,Cactus,Baran
+DRY,Desert,Cactus,Tarren
+DRY,Desert,Cactus,Vardos
+DRY,Desert,Cactus,Tanalorr
+DRY,Desert,Cactus,Makeb
+DRY,Desert,Cactus,Kalar
+DRY,Desert,Cactus,Armia
+DRY,Desert,Cactus,Madray
+DRY,Desert,Dust,Crait
+DRY,Desert,Dust,Scarif
+DRY,Desert,Dust,Byss
+DRY,Desert,Dust,Tanalorr
+DRY,Desert,Dust,Korriban
+DRY,Desert,Dust,Moraban
+DRY,Desert,Dust,Ruusan
+DRY,Desert,Dust,Rhenvar
+DRY,Desert,Dust,Denova
+DRY,Desert,Dust,Karthakk
+DRY,Desert,Dust,Armia
+DRY,Desert,Dust,Morelan
+DRY,Desert,Sodalite,Abyr
+DRY,Desert,Sodalite,Caelis
+DRY,Desert,Sodalite,Belyra
+DRY,Desert,Sodalite,Xanthalis
+DRY,Desert,Sodalite,Berylia
+DRY,Desert,Sodalite,Opaline
+DRY,Desert,Sodalite,Celestria
+DRY,Desert,Sodalite,Avaris
+DRY,Desert,Sodalite,Csilla
+DRY,Desert,Sodalite,Mizra
+DRY,Desert,Salt,Crait
+DRY,Desert,Salt,Bathys
+DRY,Desert,Salt,Byss
+DRY,Desert,Salt,Seatos
+DRY,Desert,Salt,Kessel
+DRY,Desert,Salt,Ruusan
+DRY,Desert,Salt,Rhenvar
+DRY,Desert,Salt,Denova
+DRY,Desert,Salt,Kura
+DRY,Desert,Aquifer,Oasis
+DRY,Desert,Aquifer,Eden
+DRY,Desert,Aquifer,Halea
+DRY,Desert,Aquifer,Estuary
+DRY,Desert,Aquifer,Varuna
+DRY,Desert,Aquifer,Maris
+DRY,Desert,Aquifer,Thalassa
+DRY,Desert,Aquifer,Oura
+DRY,Desert,Aquifer,Selonia
+DRY,Desert,Aquifer,Hatteras
+DRY,Arid,Mesa,Mesa
+DRY,Arid,Mesa,Crait
+DRY,Arid,Mesa,Tarren
+DRY,Arid,Mesa,Baran
+DRY,Arid,Mesa,Vardos
+DRY,Arid,Mesa,Tanalorr
+DRY,Arid,Mesa,Korriban
+DRY,Arid,Mesa,Makeb
+DRY,Arid,Mesa,Rhenvar
+DRY,Arid,Mesa,Denova
+DRY,Arid,Mesa,Karthakk
+DRY,Arid,Mesa,Morelan
+DRY,Arid,Mesa,Madray
+DRY,Arid,Fog Desert,Myrkr
+DRY,Arid,Fog Desert,Byss
+DRY,Arid,Fog Desert,Kharon
+DRY,Arid,Fog Desert,Soryth
+DRY,Arid,Fog Desert,Nocturne
+DRY,Arid,Fog Desert,Korriban
+DRY,Arid,Fog Desert,Moraban
+DRY,Arid,Fog Desert,Rhenvar
+DRY,Arid,Fog Desert,Lochsa
+DRY,Arid,Mediterranean,Laconia
+DRY,Arid,Mediterranean,Arcadia
+DRY,Arid,Mediterranean,Harmonis
+DRY,Arid,Mediterranean,Athena
+DRY,Arid,Mediterranean,Demeter
+DRY,Arid,Mediterranean,Aurelia
+DRY,Arid,Mediterranean,Telos
+DRY,Arid,Mediterranean,Gaea
+DRY,Arid,Mediterranean,Ephyra
+DRY,Arid,Mediterranean,Kythera
+DRY,Arid,Mediterranean,Ilios
+DRY,Arid,Mediterranean,Veneris
+DRY,Arid,Mediterranean,Cassia
+DRY,Arid,Mediterranean,Caledon
+DRY,Arid,Mediterranean,Selonia
+DRY,Arid,Badlands,Crait
+DRY,Arid,Badlands,Scarif
+DRY,Arid,Badlands,Kessel
+DRY,Arid,Badlands,Tanalorr
+DRY,Arid,Badlands,Korriban
+DRY,Arid,Badlands,Ruusan
+DRY,Arid,Badlands,Rhenvar
+DRY,Arid,Badlands,Denova
+DRY,Arid,Badlands,Karthakk
+DRY,Arid,Badlands,Armia
+DRY,Arid,Badlands,Morelan
+DRY,Arid,Badlands,Currituck
+DRY,Arid,Succulent,Verdant
+DRY,Arid,Succulent,Lotus
+DRY,Arid,Succulent,Sylvaris
+DRY,Arid,Succulent,Verdan
+DRY,Arid,Succulent,Varuna
+DRY,Arid,Succulent,Vervain
+DRY,Arid,Succulent,Opaline
+DRY,Arid,Succulent,Savis
+DRY,Arid,Striped,Tigris
+DRY,Arid,Striped,Zypher
+DRY,Arid,Striped,Xanthalis
+DRY,Arid,Striped,Galavex
+DRY,Arid,Striped,Kaleido
+DRY,Arid,Striped,Sypso
+DRY,Arid,Striped,Cosmara
+DRY,Arid,Striped,Axila
+DRY,Arid,Amethyst,Auralis
+DRY,Arid,Amethyst,Belyra
+DRY,Arid,Amethyst,Xanthalis
+DRY,Arid,Amethyst,Krysolis
+DRY,Arid,Amethyst,Berylia
+DRY,Arid,Amethyst,Aetheris
+DRY,Arid,Amethyst,Opaline
+DRY,Arid,Amethyst,Etheria
+DRY,Arid,Amethyst,Celestria
+DRY,Arid,Amethyst,Mizra
+DRY,Arid,Opal,Iris
+DRY,Arid,Opal,Aurora
+DRY,Arid,Opal,Auralis
+DRY,Arid,Opal,Caelis
+DRY,Arid,Opal,Belyra
+DRY,Arid,Opal,Xanthalis
+DRY,Arid,Opal,Berylia
+DRY,Arid,Opal,Opaline
+DRY,Arid,Opal,Celestria
+DRY,Arid,Opal,Lucent
+DRY,Arid,Opal,Kaleido
+DRY,Arid,Superbloom,Lotus
+DRY,Arid,Superbloom,Verdant
+DRY,Arid,Superbloom,Demeter
+DRY,Arid,Superbloom,Sylvaris
+DRY,Arid,Superbloom,Gaea
+DRY,Arid,Superbloom,Aurelia
+DRY,Arid,Superbloom,Veridian
+DRY,Arid,Superbloom,Ephyra
+DRY,Arid,Superbloom,Berylia
+DRY,Arid,Superbloom,Solara
+DRY,Arid,Superbloom,Vervain
+DRY,Arid,Superbloom,Opaline
+DRY,Arid,Superbloom,Vespera
+DRY,Arid,Superbloom,Adara
+DRY,Arid,Coral,Thalassa
+DRY,Arid,Coral,Pelagos
+DRY,Arid,Coral,Seatos
+DRY,Arid,Coral,Varuna
+DRY,Arid,Coral,Ephyra
+DRY,Arid,Coral,Kythera
+DRY,Arid,Coral,Calypsor
+DRY,Arid,Coral,Maris
+DRY,Arid,Coral,Nereus
+DRY,Arid,Coral,Cychia
+DRY,Arid,Coral,Oura
+DRY,Arid,Coral,Selonia
+DRY,Arid,Primal,Surtr
+DRY,Arid,Primal,Tyran
+DRY,Arid,Primal,Leviathan
+DRY,Arid,Primal,Kraken
+DRY,Arid,Primal,Aegir
+DRY,Arid,Primal,Typhon
+DRY,Arid,Primal,Hydra
+DRY,Arid,Primal,Kharon
+DRY,Arid,Primal,Orcus
+DRY,Arid,Primal,Karkaris
+DRY,Arid,Primal,Krakonos
+DRY,Arid,Primal,Karthakk
+DRY,Savannah,Steppe,Tigris
+DRY,Savannah,Steppe,Baran
+DRY,Savannah,Steppe,Tarren
+DRY,Savannah,Steppe,Harvest
+DRY,Savannah,Steppe,Reach
+DRY,Savannah,Steppe,Frontier
+DRY,Savannah,Steppe,Verdan
+DRY,Savannah,Steppe,Tanalorr
+DRY,Savannah,Steppe,Soryth
+DRY,Savannah,Steppe,Volund
+DRY,Savannah,Steppe,Sarken
+DRY,Savannah,Steppe,Kalar
+DRY,Savannah,Steppe,Morelan
+DRY,Savannah,Prairie,Harvest
+DRY,Savannah,Prairie,Reach
+DRY,Savannah,Prairie,Frontier
+DRY,Savannah,Prairie,Verdant
+DRY,Savannah,Prairie,Harmony
+DRY,Savannah,Prairie,Haven
+DRY,Savannah,Prairie,Demeter
+DRY,Savannah,Prairie,Verdan
+DRY,Savannah,Prairie,Tanalorr
+DRY,Savannah,Prairie,Sylvan
+DRY,Savannah,Prairie,Lineara
+DRY,Savannah,Prairie,Genevah
+DRY,Savannah,Semi-Arid,Mesa
+DRY,Savannah,Semi-Arid,Baran
+DRY,Savannah,Semi-Arid,Vardos
+DRY,Savannah,Semi-Arid,Tarren
+DRY,Savannah,Semi-Arid,Tanalorr
+DRY,Savannah,Semi-Arid,Makeb
+DRY,Savannah,Semi-Arid,Ruusan
+DRY,Savannah,Semi-Arid,Kalar
+DRY,Savannah,Semi-Arid,Armia
+DRY,Savannah,Semi-Arid,Morelan
+DRY,Savannah,Aspen,Sylvaris
+DRY,Savannah,Aspen,Verdant
+DRY,Savannah,Aspen,Veridian
+DRY,Savannah,Aspen,Sylvan
+DRY,Savannah,Aspen,Alder
+DRY,Savannah,Aspen,Vervain
+DRY,Savannah,Aspen,Pinenia
+DRY,Savannah,Aspen,Arken
+DRY,Savannah,Aspen,Lochsa
+DRY,Savannah,Aspen,Hatteras
+DRY,Savannah,Sandstone,Crait
+DRY,Savannah,Sandstone,Mesa
+DRY,Savannah,Sandstone,Targea
+DRY,Savannah,Sandstone,Tanalorr
+DRY,Savannah,Sandstone,Korriban
+DRY,Savannah,Sandstone,Makeb
+DRY,Savannah,Sandstone,Rhenvar
+DRY,Savannah,Sandstone,Karthakk
+DRY,Savannah,Sandstone,Morelan
+DRY,Savannah,Sandstone,Madray
+DRY,Savannah,Turquoise,Iris
+DRY,Savannah,Turquoise,Aurora
+DRY,Savannah,Turquoise,Auralis
+DRY,Savannah,Turquoise,Caelis
+DRY,Savannah,Turquoise,Cychia
+DRY,Savannah,Turquoise,Xanthalis
+DRY,Savannah,Turquoise,Berylia
+DRY,Savannah,Turquoise,Opaline
+DRY,Savannah,Turquoise,Oura
+DRY,Savannah,Turquoise,Mizra
+DRY,Savannah,Calcite,Kessel
+DRY,Savannah,Calcite,Caelis
+DRY,Savannah,Calcite,Xylos
+DRY,Savannah,Calcite,Krysolis
+DRY,Savannah,Calcite,Berylia
+DRY,Savannah,Calcite,Opaline
+DRY,Savannah,Calcite,Cruxos
+DRY,Savannah,Calcite,Kalar
+DRY,Savannah,Monsoon,Tigris
+DRY,Savannah,Monsoon,Tempest
+DRY,Savannah,Monsoon,Varuna
+DRY,Savannah,Monsoon,Cyclonis
+DRY,Savannah,Monsoon,Thulara
+DRY,Savannah,Monsoon,Sypso
+DRY,Savannah,Monsoon,Cosmara
+DRY,Savannah,Monsoon,Thyferra
+DRY,Savannah,Silvergrass,Tarren
+DRY,Savannah,Silvergrass,Reach
+DRY,Savannah,Silvergrass,Frontier
+DRY,Savannah,Silvergrass,Verdan
+DRY,Savannah,Silvergrass,Sylvan
+DRY,Savannah,Silvergrass,Lineara
+DRY,Savannah,Silvergrass,Wyan
+DRY,Savannah,Supercontinental,Tigris
+DRY,Savannah,Supercontinental,Laconia
+DRY,Savannah,Supercontinental,Tanalorr
+DRY,Savannah,Supercontinental,Atlas
+DRY,Savannah,Supercontinental,Meridian
+DRY,Savannah,Supercontinental,Vardos
+DRY,Savannah,Supercontinental,Varadon
+DRY,Savannah,Supercontinental,Vandris
+DRY,Savannah,Supercontinental,Vandor
+DRY,Savannah,Supercontinental,Vanador
+DRY,Savannah,Sinkhole,Kessel
+DRY,Savannah,Sinkhole,Abyr
+DRY,Savannah,Sinkhole,Kharon
+DRY,Savannah,Sinkhole,Orcus
+DRY,Savannah,Sinkhole,Oxum
+DRY,Savannah,Sinkhole,Exolok
+DRY,Savannah,Sinkhole,Kettos
+DRY,Savannah,Sinkhole,Karkaris
+DRY,Savannah,Sinkhole,Korriban
+DRY,Savannah,Sinkhole,Athiss
+COLD,Arctic,Cold Desert,Ilum
+COLD,Arctic,Cold Desert,Crait
+COLD,Arctic,Cold Desert,Glacien
+COLD,Arctic,Cold Desert,Crythe
+COLD,Arctic,Cold Desert,Myrkr
+COLD,Arctic,Cold Desert,Kessel
+COLD,Arctic,Cold Desert,Rhenvar
+COLD,Arctic,Cold Desert,Ryloth
+COLD,Arctic,Cold Desert,Rhyxis
+COLD,Arctic,Cold Desert,Arctis
+COLD,Arctic,Glacial,Glacien
+COLD,Arctic,Glacial,Ilum
+COLD,Arctic,Glacial,Crythe
+COLD,Arctic,Glacial,Nivalis
+COLD,Arctic,Glacial,Arctis
+COLD,Arctic,Glacial,Rhenvar
+COLD,Arctic,Glacial,Caelum
+COLD,Arctic,Glacial,Csilla
+COLD,Arctic,Antarctic,Glacien
+COLD,Arctic,Antarctic,Ilum
+COLD,Arctic,Antarctic,Crythe
+COLD,Arctic,Antarctic,Nivalis
+COLD,Arctic,Antarctic,Arctis
+COLD,Arctic,Antarctic,Baffin
+COLD,Arctic,Antarctic,Rhenvar
+COLD,Arctic,Aeolian,Zypher
+COLD,Arctic,Aeolian,Zephryon
+COLD,Arctic,Aeolian,Tempest
+COLD,Arctic,Aeolian,Vortexos
+COLD,Arctic,Aeolian,Cyclonis
+COLD,Arctic,Aeolian,Sypso
+COLD,Arctic,Aeolian,Wyan
+COLD,Arctic,Ice Spike,Crythe
+COLD,Arctic,Ice Spike,Glacien
+COLD,Arctic,Ice Spike,Ilum
+COLD,Arctic,Ice Spike,Arctis
+COLD,Arctic,Ice Spike,Rhyxis
+COLD,Arctic,Ice Spike,Cruxos
+COLD,Arctic,Ice Spike,Xytes
+COLD,Arctic,Crevasse,Glacien
+COLD,Arctic,Crevasse,Crythe
+COLD,Arctic,Crevasse,Ilum
+COLD,Arctic,Crevasse,Rhenvar
+COLD,Arctic,Crevasse,Arctis
+COLD,Arctic,Crevasse,Abyr
+COLD,Arctic,Crevasse,Cruxos
+COLD,Arctic,Ice Dune,Ilum
+COLD,Arctic,Ice Dune,Glacien
+COLD,Arctic,Ice Dune,Crythe
+COLD,Arctic,Ice Dune,Nivalis
+COLD,Arctic,Ice Dune,Rhenvar
+COLD,Arctic,Ice Dune,Crait
+COLD,Arctic,Supraglacial Lakes,Glacien
+COLD,Arctic,Supraglacial Lakes,Ilum
+COLD,Arctic,Supraglacial Lakes,Nivalis
+COLD,Arctic,Supraglacial Lakes,Baffin
+COLD,Arctic,Supraglacial Lakes,Rhenvar
+COLD,Arctic,Supraglacial Lakes,Oura
+COLD,Arctic,Ferrospring,Volund
+COLD,Arctic,Ferrospring,Fyrix
+COLD,Arctic,Ferrospring,Electrion
+COLD,Arctic,Ferrospring,Thermalis
+COLD,Arctic,Ferrospring,Crucius
+COLD,Arctic,Ferrospring,Rhenvar
+COLD,Arctic,Storm,Tempest
+COLD,Arctic,Storm,Zypher
+COLD,Arctic,Storm,Zephryon
+COLD,Arctic,Storm,Cyclonis
+COLD,Arctic,Storm,Vortexos
+COLD,Arctic,Storm,Sypso
+COLD,Arctic,Storm,Wyan
+COLD,Arctic,Iceberg,Baffin
+COLD,Arctic,Iceberg,Glacien
+COLD,Arctic,Iceberg,Ilum
+COLD,Arctic,Iceberg,Crythe
+COLD,Arctic,Iceberg,Nivalis
+COLD,Arctic,Iceberg,Thalassa
+COLD,Arctic,Iceberg,Rhenvar
+COLD,Arctic,Iceberg,Arctis
+COLD,Alpine,Boreal,Sylvaris
+COLD,Alpine,Boreal,Myrkr
+COLD,Alpine,Boreal,Iskera
+COLD,Alpine,Boreal,Soryth
+COLD,Alpine,Boreal,Sylvan
+COLD,Alpine,Boreal,Alder
+COLD,Alpine,Boreal,Pinenia
+COLD,Alpine,Boreal,Arken
+COLD,Alpine,Boreal,Rhenvar
+COLD,Alpine,Boreal,Lochsa
+COLD,Alpine,Snow,Glacien
+COLD,Alpine,Snow,Ilum
+COLD,Alpine,Snow,Nivalis
+COLD,Alpine,Snow,Eyrie
+COLD,Alpine,Snow,Caelis
+COLD,Alpine,Snow,Arctis
+COLD,Alpine,Snow,Rhenvar
+COLD,Alpine,Highland,Eyrie
+COLD,Alpine,Highland,Atlas
+COLD,Alpine,Highland,Caelis
+COLD,Alpine,Highland,Targea
+COLD,Alpine,Highland,Kharon
+COLD,Alpine,Highland,Arctis
+COLD,Alpine,Highland,Caledon
+COLD,Alpine,Highland,Morelan
+COLD,Alpine,Dune Forest,Myrkr
+COLD,Alpine,Dune Forest,Iskera
+COLD,Alpine,Dune Forest,Soryth
+COLD,Alpine,Dune Forest,Sylvaris
+COLD,Alpine,Dune Forest,Rhenvar
+COLD,Alpine,Dune Forest,Pinenia
+COLD,Alpine,Fjord,Aegir
+COLD,Alpine,Fjord,Thalassa
+COLD,Alpine,Fjord,Baffin
+COLD,Alpine,Fjord,Eyrie
+COLD,Alpine,Fjord,Volund
+COLD,Alpine,Fjord,Sjora
+COLD,Alpine,Fjord,Nereus
+COLD,Alpine,Fjord,Hatteras
+COLD,Alpine,Blossom,Aurelia
+COLD,Alpine,Blossom,Ephyra
+COLD,Alpine,Blossom,Solara
+COLD,Alpine,Blossom,Berylia
+COLD,Alpine,Blossom,Vespera
+COLD,Alpine,Blossom,Adara
+COLD,Alpine,Blossom,Cassia
+COLD,Alpine,Blossom,Genevah
+COLD,Alpine,Taiga,Myrkr
+COLD,Alpine,Taiga,Iskera
+COLD,Alpine,Taiga,Soryth
+COLD,Alpine,Taiga,Sylvaris
+COLD,Alpine,Taiga,Sylvan
+COLD,Alpine,Taiga,Alder
+COLD,Alpine,Taiga,Pinenia
+COLD,Alpine,Taiga,Arken
+COLD,Alpine,Taiga,Rhenvar
+COLD,Alpine,Taiga,Lochsa
+COLD,Alpine,Craton,Atlas
+COLD,Alpine,Craton,Volund
+COLD,Alpine,Craton,Kharon
+COLD,Alpine,Craton,Kordis
+COLD,Alpine,Craton,Cruxos
+COLD,Alpine,Craton,Arctis
+COLD,Alpine,Craton,Karthakk
+COLD,Alpine,Ravine,Crait
+COLD,Alpine,Ravine,Targea
+COLD,Alpine,Ravine,Vardos
+COLD,Alpine,Ravine,Kharon
+COLD,Alpine,Ravine,Abyr
+COLD,Alpine,Ravine,Kydon
+COLD,Alpine,Ravine,Cruxos
+COLD,Alpine,Ravine,Rhenvar
+COLD,Alpine,Glaciovolcanic,Surtr
+COLD,Alpine,Glaciovolcanic,Pyr
+COLD,Alpine,Glaciovolcanic,Glacien
+COLD,Alpine,Glaciovolcanic,Ilum
+COLD,Alpine,Glaciovolcanic,Crythe
+COLD,Alpine,Glaciovolcanic,Typhon
+COLD,Alpine,Glaciovolcanic,Thermalis
+COLD,Alpine,Glaciovolcanic,Rhenvar
+COLD,Alpine,Lanthanide,Volund
+COLD,Alpine,Lanthanide,Fyrix
+COLD,Alpine,Lanthanide,Electrion
+COLD,Alpine,Lanthanide,Kvantum
+COLD,Alpine,Lanthanide,Crucius
+COLD,Alpine,Lanthanide,Xanthalis
+COLD,Alpine,Lanthanide,Karthakk
+COLD,Tundra,Bog,Myrkr
+COLD,Tundra,Bog,Iskera
+COLD,Tundra,Bog,Soryth
+COLD,Tundra,Bog,Estuary
+COLD,Tundra,Bog,Varuna
+COLD,Tundra,Bog,Soriuq
+COLD,Tundra,Bog,Lochsa
+COLD,Tundra,Mycelium,Myrkr
+COLD,Tundra,Mycelium,Iskera
+COLD,Tundra,Mycelium,Soryth
+COLD,Tundra,Mycelium,Sarkosis
+COLD,Tundra,Mycelium,Karkaris
+COLD,Tundra,Mycelium,Kibastea
+COLD,Tundra,Mycelium,Kalypsis
+COLD,Tundra,Mud,Tigris
+COLD,Tundra,Mud,Estuary
+COLD,Tundra,Mud,Iskera
+COLD,Tundra,Mud,Soryth
+COLD,Tundra,Mud,Roton
+COLD,Tundra,Mud,Currituck
+COLD,Tundra,Basalt,Surtr
+COLD,Tundra,Basalt,Pyr
+COLD,Tundra,Basalt,Crait
+COLD,Tundra,Basalt,Kharon
+COLD,Tundra,Basalt,Xylos
+COLD,Tundra,Basalt,Cruxos
+COLD,Tundra,Basalt,Korriban
+COLD,Tundra,Tuya,Surtr
+COLD,Tundra,Tuya,Pyr
+COLD,Tundra,Tuya,Glacien
+COLD,Tundra,Tuya,Typhon
+COLD,Tundra,Tuya,Arctis
+COLD,Tundra,Tuya,Kharon
+COLD,Tundra,Cryovolcano,Crythe
+COLD,Tundra,Cryovolcano,Glacien
+COLD,Tundra,Cryovolcano,Ilum
+COLD,Tundra,Cryovolcano,Nivalis
+COLD,Tundra,Cryovolcano,Thermalis
+COLD,Tundra,Cryovolcano,Arctis
+COLD,Tundra,Treeline,Sylvaris
+COLD,Tundra,Treeline,Myrkr
+COLD,Tundra,Treeline,Iskera
+COLD,Tundra,Treeline,Soryth
+COLD,Tundra,Treeline,Sylvan
+COLD,Tundra,Treeline,Alder
+COLD,Tundra,Treeline,Pinenia
+COLD,Tundra,Treeline,Arken
+COLD,Tundra,Peatland,Myrkr
+COLD,Tundra,Peatland,Iskera
+COLD,Tundra,Peatland,Soryth
+COLD,Tundra,Peatland,Estuary
+COLD,Tundra,Peatland,Vervain
+COLD,Tundra,Peatland,Lochsa
+COLD,Tundra,Travertine,Caelis
+COLD,Tundra,Travertine,Xylos
+COLD,Tundra,Travertine,Opaline
+COLD,Tundra,Travertine,Crucius
+COLD,Tundra,Travertine,Caledon
+COLD,Tundra,Cryoflora,Glacien
+COLD,Tundra,Cryoflora,Nivalis
+COLD,Tundra,Cryoflora,Iskera
+COLD,Tundra,Cryoflora,Berylia
+COLD,Tundra,Cryoflora,Vervain
+COLD,Tundra,Cryoflora,Arctis
+COLD,Tundra,Cryoflora,Vespera
+COLD,Tundra,Lichen,Myrkr
+COLD,Tundra,Lichen,Iskera
+COLD,Tundra,Lichen,Soryth
+COLD,Tundra,Lichen,Vervain
+COLD,Tundra,Lichen,Alder
+COLD,Tundra,Lichen,Arken
+VOLCANIC,,Ash,Surtr
+VOLCANIC,,Ash,Phaeton
+VOLCANIC,,Ash,Pyr
+VOLCANIC,,Ash,Crait
+VOLCANIC,,Ash,Scarif
+VOLCANIC,,Ash,Kharon
+VOLCANIC,,Ash,Typhon
+VOLCANIC,,Ash,Korriban
+VOLCANIC,,Ash,Moraban
+VOLCANIC,,Ash,Ruusan
+VOLCANIC,,Ash,Karthakk
+VOLCANIC,,Ash,Rhenvar
+VOLCANIC,,Magma,Surtr
+VOLCANIC,,Magma,Phaeton
+VOLCANIC,,Magma,Pyr
+VOLCANIC,,Magma,Typhon
+VOLCANIC,,Magma,Helior
+VOLCANIC,,Magma,Ilios
+VOLCANIC,,Magma,Solith
+VOLCANIC,,Magma,Thermalis
+VOLCANIC,,Magma,Korriban
+VOLCANIC,,Magma,Moraban
+VOLCANIC,,Magma,Karthakk
+GAIA,,Wet Gaia,Eden
+GAIA,,Wet Gaia,Verdant
+GAIA,,Wet Gaia,Lotus
+GAIA,,Wet Gaia,Arcadia
+GAIA,,Wet Gaia,Prosperis
+GAIA,,Wet Gaia,Harmonis
+GAIA,,Wet Gaia,Harmony
+GAIA,,Wet Gaia,Haven
+GAIA,,Wet Gaia,Gaea
+GAIA,,Wet Gaia,Aurelia
+GAIA,,Wet Gaia,Halcyon
+GAIA,,Wet Gaia,Elysia
+GAIA,,Wet Gaia,Solara
+GAIA,,Wet Gaia,Asana
+GAIA,,Wet Gaia,Celestria
+GAIA,,Wet Gaia,Vespera
+GAIA,,Wet Gaia,Adara
+GAIA,,Wet Gaia,Selonia
+GAIA,,Dry Gaia,Eden
+GAIA,,Dry Gaia,Arcadia
+GAIA,,Dry Gaia,Prosperis
+GAIA,,Dry Gaia,Harmonis
+GAIA,,Dry Gaia,Harmony
+GAIA,,Dry Gaia,Haven
+GAIA,,Dry Gaia,Aurelia
+GAIA,,Dry Gaia,Halcyon
+GAIA,,Dry Gaia,Solara
+GAIA,,Dry Gaia,Elysia
+GAIA,,Dry Gaia,Oasis
+GAIA,,Dry Gaia,Adara
+GAIA,,Dry Gaia,Caledon
+GAIA,,Cold Gaia,Eden
+GAIA,,Cold Gaia,Arcadia
+GAIA,,Cold Gaia,Prosperis
+GAIA,,Cold Gaia,Harmonis
+GAIA,,Cold Gaia,Harmony
+GAIA,,Cold Gaia,Haven
+GAIA,,Cold Gaia,Halcyon
+GAIA,,Cold Gaia,Elysia
+GAIA,,Cold Gaia,Aurora
+GAIA,,Cold Gaia,Nivalis
+GAIA,,Cold Gaia,Vespera
+GAIA,,Cold Gaia,Rhenvar
+CAVERN,,Wet Cavern,Abyr
+CAVERN,,Wet Cavern,Kessel
+CAVERN,,Wet Cavern,Kharon
+CAVERN,,Wet Cavern,Oxum
+CAVERN,,Wet Cavern,Exolok
+CAVERN,,Wet Cavern,Athiss
+CAVERN,,Wet Cavern,Korriban
+CAVERN,,Wet Cavern,Lochsa
+CAVERN,,Dry Cavern,Abyr
+CAVERN,,Dry Cavern,Kessel
+CAVERN,,Dry Cavern,Kharon
+CAVERN,,Dry Cavern,Karkaris
+CAVERN,,Dry Cavern,Oxum
+CAVERN,,Dry Cavern,Exolok
+CAVERN,,Dry Cavern,Korriban
+CAVERN,,Dry Cavern,Moraban
+CAVERN,,Dry Cavern,Karthakk
+CAVERN,,Cold Cavern,Abyr
+CAVERN,,Cold Cavern,Myrkr
+CAVERN,,Cold Cavern,Ilum
+CAVERN,,Cold Cavern,Crythe
+CAVERN,,Cold Cavern,Kharon
+CAVERN,,Cold Cavern,Exolok
+CAVERN,,Cold Cavern,Athiss
+CAVERN,,Gaia Cavern,Eden
+CAVERN,,Gaia Cavern,Haven
+CAVERN,,Gaia Cavern,Elysia
+CAVERN,,Gaia Cavern,Arcadia
+CAVERN,,Gaia Cavern,Prosperis
+CAVERN,,Gaia Cavern,Aetheris
+CAVERN,,Gaia Cavern,Etheria
+CAVERN,,Gaia Cavern,Athiss
+CAVERN,,Barren Cavern,Abyr
+CAVERN,,Barren Cavern,Kessel
+CAVERN,,Barren Cavern,Kharon
+CAVERN,,Barren Cavern,Byss
+CAVERN,,Barren Cavern,Oxum
+CAVERN,,Barren Cavern,Exolok
+CAVERN,,Barren Cavern,Korriban
+CAVERN,,Barren Cavern,Karthakk
+CAVERN,,Nuked Cavern,Byss
+CAVERN,,Nuked Cavern,Sunder
+CAVERN,,Nuked Cavern,Nocturne
+CAVERN,,Nuked Cavern,Exolok
+CAVERN,,Nuked Cavern,Korriban
+CAVERN,,Nuked Cavern,Moraban
+CAVERN,,Hive Cavern,Karkaris
+CAVERN,,Hive Cavern,Sarkosis
+CAVERN,,Hive Cavern,Kalypsis
+CAVERN,,Hive Cavern,Myrkr
+CAVERN,,Hive Cavern,Kettos
+CAVERN,,Hive Cavern,Karthakk
+CAVERN,,Machine Cavern,Axon
+CAVERN,,Machine Cavern,Axiom
+CAVERN,,Machine Cavern,Helix
+CAVERN,,Machine Cavern,Cyberia
+CAVERN,,Machine Cavern,Kvantum
+CAVERN,,Machine Cavern,Cortex
+CAVERN,,Machine Cavern,Exolok
+CAVERN,,Machine Cavern,Iokath
+CAVERN,,Aquatic Cavern,Bathys
+CAVERN,,Aquatic Cavern,Thalassa
+CAVERN,,Aquatic Cavern,Pelagos
+CAVERN,,Aquatic Cavern,Abyr
+CAVERN,,Aquatic Cavern,Maris
+CAVERN,,Aquatic Cavern,Nereus
+CAVERN,,Aquatic Cavern,Oura
+CAVERN,,Wasteland Cavern,Byss
+CAVERN,,Wasteland Cavern,Sunder
+CAVERN,,Wasteland Cavern,Korriban
+CAVERN,,Wasteland Cavern,Moraban
+CAVERN,,Wasteland Cavern,Rhenvar
+CAVERN,,Wasteland Cavern,Denova
+CAVERN,,Shroud Cavern,Byss
+CAVERN,,Shroud Cavern,Myrkr
+CAVERN,,Shroud Cavern,Somnium
+CAVERN,,Shroud Cavern,Aetheris
+CAVERN,,Shroud Cavern,Etheria
+CAVERN,,Shroud Cavern,Nocturne
+CAVERN,,Shroud Cavern,Eidos
+CAVERN,,Shroud Cavern,Athiss
+CAVERN,,Necro Cavern,Kharon
+CAVERN,,Necro Cavern,Orcus
+CAVERN,,Necro Cavern,Byss
+CAVERN,,Necro Cavern,Nocturne
+CAVERN,,Necro Cavern,Thronos
+CAVERN,,Necro Cavern,Athiss
+CAVERN,,Necro Cavern,Korriban
+SUPERHABITABLE,,Wet Superhabitable,Verdant
+SUPERHABITABLE,,Wet Superhabitable,Eden
+SUPERHABITABLE,,Wet Superhabitable,Prosperis
+SUPERHABITABLE,,Wet Superhabitable,Harmony
+SUPERHABITABLE,,Wet Superhabitable,Haven
+SUPERHABITABLE,,Wet Superhabitable,Gaea
+SUPERHABITABLE,,Wet Superhabitable,Tanalorr
+SUPERHABITABLE,,Wet Superhabitable,Sylvaris
+SUPERHABITABLE,,Wet Superhabitable,Veridian
+SUPERHABITABLE,,Wet Superhabitable,Sylvan
+SUPERHABITABLE,,Wet Superhabitable,Genevah
+SUPERHABITABLE,,Dry Superhabitable,Prosperis
+SUPERHABITABLE,,Dry Superhabitable,Tanalorr
+SUPERHABITABLE,,Dry Superhabitable,Atlas
+SUPERHABITABLE,,Dry Superhabitable,Verdant
+SUPERHABITABLE,,Dry Superhabitable,Harmonis
+SUPERHABITABLE,,Dry Superhabitable,Kalar
+SUPERHABITABLE,,Dry Superhabitable,Caledon
+SUPERHABITABLE,,Cold Superhabitable,Prosperis
+SUPERHABITABLE,,Cold Superhabitable,Tanalorr
+SUPERHABITABLE,,Cold Superhabitable,Atlas
+SUPERHABITABLE,,Cold Superhabitable,Nivalis
+SUPERHABITABLE,,Cold Superhabitable,Sylvaris
+SUPERHABITABLE,,Cold Superhabitable,Rhenvar
+SUPERHABITABLE,,Cold Superhabitable,Caledon
+SUPERHABITABLE,,Gaia Superhabitable,Eden
+SUPERHABITABLE,,Gaia Superhabitable,Arcadia
+SUPERHABITABLE,,Gaia Superhabitable,Prosperis
+SUPERHABITABLE,,Gaia Superhabitable,Harmony
+SUPERHABITABLE,,Gaia Superhabitable,Haven
+SUPERHABITABLE,,Gaia Superhabitable,Gaea
+SUPERHABITABLE,,Gaia Superhabitable,Aurelia
+SUPERHABITABLE,,Gaia Superhabitable,Halcyon
+SUPERHABITABLE,,Gaia Superhabitable,Elysia
+SUPERHABITABLE,,Gaia Superhabitable,Celestria
+SUPERHABITABLE,,Barren Superhabitable,Atlas
+SUPERHABITABLE,,Barren Superhabitable,Tanalorr
+SUPERHABITABLE,,Barren Superhabitable,Kessel
+SUPERHABITABLE,,Barren Superhabitable,Karthakk
+SUPERHABITABLE,,Barren Superhabitable,Denova
+SUPERHABITABLE,,Nuked Superhabitable,Leviathan
+SUPERHABITABLE,,Nuked Superhabitable,Sunder
+SUPERHABITABLE,,Nuked Superhabitable,Tanalorr
+SUPERHABITABLE,,Nuked Superhabitable,Denova
+SUPERHABITABLE,,Nuked Superhabitable,Rhenvar
+SUPERHABITABLE,,Hive Superhabitable,Leviathan
+SUPERHABITABLE,,Hive Superhabitable,Kraken
+SUPERHABITABLE,,Hive Superhabitable,Karkaris
+SUPERHABITABLE,,Hive Superhabitable,Sarkosis
+SUPERHABITABLE,,Hive Superhabitable,Kalypsis
+SUPERHABITABLE,,Machine Superhabitable,Atlas
+SUPERHABITABLE,,Machine Superhabitable,Axiom
+SUPERHABITABLE,,Machine Superhabitable,Helix
+SUPERHABITABLE,,Machine Superhabitable,Cyberia
+SUPERHABITABLE,,Machine Superhabitable,Kvantum
+SUPERHABITABLE,,Machine Superhabitable,Omnis
+SUPERHABITABLE,,Machine Superhabitable,Cortex
+SUPERHABITABLE,,Machine Superhabitable,Iokath
+TIDALLY LOCKED,,Wet Tidally Locked,Thetis
+TIDALLY LOCKED,,Wet Tidally Locked,Tethys
+TIDALLY LOCKED,,Wet Tidally Locked,Rhea
+TIDALLY LOCKED,,Wet Tidally Locked,Elara
+TIDALLY LOCKED,,Wet Tidally Locked,Thalassa
+TIDALLY LOCKED,,Wet Tidally Locked,Varuna
+TIDALLY LOCKED,,Wet Tidally Locked,Oura
+TIDALLY LOCKED,,Wet Tidally Locked,Selonia
+TIDALLY LOCKED,,Dry Tidally Locked,Phaeton
+TIDALLY LOCKED,,Dry Tidally Locked,Kharon
+TIDALLY LOCKED,,Dry Tidally Locked,Crait
+TIDALLY LOCKED,,Dry Tidally Locked,Korriban
+TIDALLY LOCKED,,Dry Tidally Locked,Moraban
+TIDALLY LOCKED,,Dry Tidally Locked,Ruusan
+TIDALLY LOCKED,,Cold Tidally Locked / Eyeball,Thetis
+TIDALLY LOCKED,,Cold Tidally Locked / Eyeball,Tethys
+TIDALLY LOCKED,,Cold Tidally Locked / Eyeball,Rhea
+TIDALLY LOCKED,,Cold Tidally Locked / Eyeball,Ilum
+TIDALLY LOCKED,,Cold Tidally Locked / Eyeball,Nivalis
+TIDALLY LOCKED,,Cold Tidally Locked / Eyeball,Arctis
+TIDALLY LOCKED,,Cold Tidally Locked / Eyeball,Rhenvar
+TIDALLY LOCKED,,Gaia Tidally Locked,Eden
+TIDALLY LOCKED,,Gaia Tidally Locked,Halcyon
+TIDALLY LOCKED,,Gaia Tidally Locked,Harmony
+TIDALLY LOCKED,,Gaia Tidally Locked,Elysia
+TIDALLY LOCKED,,Gaia Tidally Locked,Aurelia
+TIDALLY LOCKED,,Dry Gaia Tidally Locked,Arcadia
+TIDALLY LOCKED,,Dry Gaia Tidally Locked,Solara
+TIDALLY LOCKED,,Dry Gaia Tidally Locked,Adara
+TIDALLY LOCKED,,Dry Gaia Tidally Locked,Halcyon
+TIDALLY LOCKED,,Cold Gaia Tidally Locked,Aurora
+TIDALLY LOCKED,,Cold Gaia Tidally Locked,Elysia
+TIDALLY LOCKED,,Cold Gaia Tidally Locked,Vespera
+TIDALLY LOCKED,,Cold Gaia Tidally Locked,Halcyon
+TIDALLY LOCKED,,Barren Tidally Locked,Phaeton
+TIDALLY LOCKED,,Barren Tidally Locked,Crait
+TIDALLY LOCKED,,Barren Tidally Locked,Kharon
+TIDALLY LOCKED,,Barren Tidally Locked,Byss
+TIDALLY LOCKED,,Barren Tidally Locked,Rhenvar
+TIDALLY LOCKED,,Nuked Tidally Locked,Byss
+TIDALLY LOCKED,,Nuked Tidally Locked,Sunder
+TIDALLY LOCKED,,Nuked Tidally Locked,Rhenvar
+TIDALLY LOCKED,,Nuked Tidally Locked,Denova
+TIDALLY LOCKED,,Hive Tidally Locked,Karkaris
+TIDALLY LOCKED,,Hive Tidally Locked,Sarkosis
+TIDALLY LOCKED,,Hive Tidally Locked,Kalypsis
+TIDALLY LOCKED,,Hive Tidally Locked,Leviathan
+TIDALLY LOCKED,,Machine Tidally Locked,Axon
+TIDALLY LOCKED,,Machine Tidally Locked,Axiom
+TIDALLY LOCKED,,Machine Tidally Locked,Helix
+TIDALLY LOCKED,,Machine Tidally Locked,Cyberia
+TIDALLY LOCKED,,Machine Tidally Locked,Cortex
+TIDALLY LOCKED,,Machine Tidally Locked,Iokath
+TIDALLY LOCKED,,Wasteland Tidally Locked,Crait
+TIDALLY LOCKED,,Wasteland Tidally Locked,Byss
+TIDALLY LOCKED,,Wasteland Tidally Locked,Sunder
+TIDALLY LOCKED,,Wasteland Tidally Locked,Rhenvar
+TIDALLY LOCKED,,Wasteland Tidally Locked,Denova
+TIDALLY LOCKED,,Necro Tidally Locked,Kharon
+TIDALLY LOCKED,,Necro Tidally Locked,Orcus
+TIDALLY LOCKED,,Necro Tidally Locked,Byss
+TIDALLY LOCKED,,Necro Tidally Locked,Nocturne
+TIDALLY LOCKED,,Necro Tidally Locked,Korriban
+EXOTIC,,Carbon,Cindor
+EXOTIC,,Carbon,Kharon
+EXOTIC,,Carbon,Corum
+EXOTIC,,Carbon,Xylos
+EXOTIC,,Carbon,Karkaris
+EXOTIC,,Carbon,Karthakk
+EXOTIC,,Carbon,Crucius
+UNINHABITABLE / EXOTIC,,Iron,Tigris
+UNINHABITABLE / EXOTIC,,Iron,Cindor
+UNINHABITABLE / EXOTIC,,Iron,Volund
+UNINHABITABLE / EXOTIC,,Iron,Fyrix
+UNINHABITABLE / EXOTIC,,Iron,Kordis
+UNINHABITABLE / EXOTIC,,Iron,Crucius
+UNINHABITABLE / EXOTIC,,Iron,Karthakk
+UNINHABITABLE / EXOTIC,,Subglacial,Ilum
+UNINHABITABLE / EXOTIC,,Subglacial,Glacien
+UNINHABITABLE / EXOTIC,,Subglacial,Crythe
+UNINHABITABLE / EXOTIC,,Subglacial,Nivalis
+UNINHABITABLE / EXOTIC,,Subglacial,Baffin
+UNINHABITABLE / EXOTIC,,Subglacial,Rhenvar
+UNINHABITABLE / EXOTIC,,Hydrocarbon,Bathys
+UNINHABITABLE / EXOTIC,,Hydrocarbon,Byss
+UNINHABITABLE / EXOTIC,,Hydrocarbon,Soryth
+UNINHABITABLE / EXOTIC,,Hydrocarbon,Sarkosis
+UNINHABITABLE / EXOTIC,,Hydrocarbon,Roton
+UNINHABITABLE / EXOTIC,,Hothouse,Phaeton
+UNINHABITABLE / EXOTIC,,Hothouse,Pyr
+UNINHABITABLE / EXOTIC,,Hothouse,Typhon
+UNINHABITABLE / EXOTIC,,Hothouse,Helior
+UNINHABITABLE / EXOTIC,,Hothouse,Ilios
+UNINHABITABLE / EXOTIC,,Hothouse,Solith
+UNINHABITABLE / EXOTIC,,Hothouse,Thermalis
+UNINHABITABLE / EXOTIC,,Ethane Ocean,Bathys
+UNINHABITABLE / EXOTIC,,Ethane Ocean,Thalassa
+UNINHABITABLE / EXOTIC,,Ethane Ocean,Pelagos
+UNINHABITABLE / EXOTIC,,Ethane Ocean,Byss
+UNINHABITABLE / EXOTIC,,Ethane Ocean,Maris
+UNINHABITABLE / EXOTIC,,Ethane Ocean,Nereus
+UNINHABITABLE / EXOTIC,,Diamond,Iris
+UNINHABITABLE / EXOTIC,,Diamond,Aurora
+UNINHABITABLE / EXOTIC,,Diamond,Auralis
+UNINHABITABLE / EXOTIC,,Diamond,Xanthalis
+UNINHABITABLE / EXOTIC,,Diamond,Krysolis
+UNINHABITABLE / EXOTIC,,Diamond,Berylia
+UNINHABITABLE / EXOTIC,,Diamond,Opaline
+UNINHABITABLE / EXOTIC,,Diamond,Celestria
+UNINHABITABLE / EXOTIC,,Diamond,Lucent
+UNINHABITABLE / EXOTIC,,Volcanic,Surtr
+UNINHABITABLE / EXOTIC,,Volcanic,Phaeton
+UNINHABITABLE / EXOTIC,,Volcanic,Pyr
+UNINHABITABLE / EXOTIC,,Volcanic,Typhon
+UNINHABITABLE / EXOTIC,,Volcanic,Kharon
+UNINHABITABLE / EXOTIC,,Volcanic,Thermalis
+UNINHABITABLE / EXOTIC,,Volcanic,Korriban
+UNINHABITABLE / EXOTIC,,Chthonian,Surtr
+UNINHABITABLE / EXOTIC,,Chthonian,Phaeton
+UNINHABITABLE / EXOTIC,,Chthonian,Kharon
+UNINHABITABLE / EXOTIC,,Chthonian,Orcus
+UNINHABITABLE / EXOTIC,,Chthonian,Byss
+UNINHABITABLE / EXOTIC,,Chthonian,Korriban
+UNINHABITABLE / EXOTIC,,Chthonian,Karthakk
+UNINHABITABLE / EXOTIC,,Hot Gas Giant,Phaeton
+UNINHABITABLE / EXOTIC,,Hot Gas Giant,Typhon
+UNINHABITABLE / EXOTIC,,Hot Gas Giant,Hyperion
+UNINHABITABLE / EXOTIC,,Hot Gas Giant,Helior
+UNINHABITABLE / EXOTIC,,Hot Gas Giant,Vortexos
+UNINHABITABLE / EXOTIC,,Hot Gas Giant,Cyclonis
+UNINHABITABLE / EXOTIC,,Cloudless Gas Giant,Caelis
+UNINHABITABLE / EXOTIC,,Cloudless Gas Giant,Caelum
+UNINHABITABLE / EXOTIC,,Cloudless Gas Giant,Aerius
+UNINHABITABLE / EXOTIC,,Cloudless Gas Giant,Aetheris
+UNINHABITABLE / EXOTIC,,Cloudless Gas Giant,Etheria
+UNINHABITABLE / EXOTIC,,Cloudless Gas Giant,Auralis
+UNINHABITABLE / EXOTIC,,Cold Gas Giant,Aegir
+UNINHABITABLE / EXOTIC,,Cold Gas Giant,Hyperion
+UNINHABITABLE / EXOTIC,,Cold Gas Giant,Nivalis
+UNINHABITABLE / EXOTIC,,Cold Gas Giant,Caelum
+UNINHABITABLE / EXOTIC,,Cold Gas Giant,Arctis
+UNINHABITABLE / EXOTIC,,Dwarf Gas Giant,Thebe
+UNINHABITABLE / EXOTIC,,Dwarf Gas Giant,Kalyke
+UNINHABITABLE / EXOTIC,,Dwarf Gas Giant,Rhea
+UNINHABITABLE / EXOTIC,,Dwarf Gas Giant,Elara
+UNINHABITABLE / EXOTIC,,Dwarf Gas Giant,Ixion
+UNINHABITABLE / EXOTIC,,Dwarf Gas Giant,Kalyx
+RELIC / SPECIAL,,Relic World,Actium
+RELIC / SPECIAL,,Relic World,Adacore
+RELIC / SPECIAL,,Relic World,Alactra
+RELIC / SPECIAL,,Relic World,Chordelis
+RELIC / SPECIAL,,Relic World,Fordris
+RELIC / SPECIAL,,Relic World,Gheistos
+RELIC / SPECIAL,,Relic World,Lathe
+RELIC / SPECIAL,,Relic World,Veneris
+RELIC / SPECIAL,,Relic World,Ichuridan
+RELIC / SPECIAL,,Relic World,Ecury
+RELIC / SPECIAL,,Relic World,Certonia
+RELIC / SPECIAL,,Relic World,Eriad
+RELIC / SPECIAL,,Relic World,Cryptum
+RELIC / SPECIAL,,Relic World,Etoniah
+RELIC / SPECIAL,,Hive World,Leviathan
+RELIC / SPECIAL,,Hive World,Kraken
+RELIC / SPECIAL,,Hive World,Karkaris
+RELIC / SPECIAL,,Hive World,Sarkosis
+RELIC / SPECIAL,,Hive World,Kalypsis
+RELIC / SPECIAL,,Hive World,Kettos
+RELIC / SPECIAL,,Hive World,Karthakk
+RELIC / SPECIAL,,Machine World,Axon
+RELIC / SPECIAL,,Machine World,Axiom
+RELIC / SPECIAL,,Machine World,Helix
+RELIC / SPECIAL,,Machine World,Cyberia
+RELIC / SPECIAL,,Machine World,Kvantum
+RELIC / SPECIAL,,Machine World,Omnis
+RELIC / SPECIAL,,Machine World,Cortex
+RELIC / SPECIAL,,Machine World,Vertexa
+RELIC / SPECIAL,,Machine World,Amperon
+RELIC / SPECIAL,,Machine World,Iokath
+RELIC / SPECIAL,,Broken Machine World,Sunder
+RELIC / SPECIAL,,Broken Machine World,Exolok
+RELIC / SPECIAL,,Broken Machine World,Iokath
+RELIC / SPECIAL,,Broken Machine World,Cortex
+RELIC / SPECIAL,,Broken Machine World,Roton
+RELIC / SPECIAL,,Broken Machine World,Eychron
+RELIC / SPECIAL,,Shielded World,Aegir
+RELIC / SPECIAL,,Shielded World,Targea
+RELIC / SPECIAL,,Shielded World,Vardos
+RELIC / SPECIAL,,Shielded World,Kordis
+RELIC / SPECIAL,,Shielded World,Sentryon
+RELIC / SPECIAL,,Shielded World,Antecon
+RELIC / SPECIAL,,Shielded World,Anaxes
+RELIC / SPECIAL,,AI World,Axiom
+RELIC / SPECIAL,,AI World,Helix
+RELIC / SPECIAL,,AI World,Cyberia
+RELIC / SPECIAL,,AI World,Kvantum
+RELIC / SPECIAL,,AI World,Omnis
+RELIC / SPECIAL,,AI World,Cortex
+RELIC / SPECIAL,,AI World,Saion
+RELIC / SPECIAL,,AI World,Iokath
+RELIC / SPECIAL,,Infested World,Leviathan
+RELIC / SPECIAL,,Infested World,Karkaris
+RELIC / SPECIAL,,Infested World,Sarkosis
+RELIC / SPECIAL,,Infested World,Myrkr
+RELIC / SPECIAL,,Infested World,Kalypsis
+RELIC / SPECIAL,,Infested World,Kettos
+RELIC / SPECIAL,,Cybrex World,Cyberia
+RELIC / SPECIAL,,Cybrex World,Kvantum
+RELIC / SPECIAL,,Cybrex World,Axiom
+RELIC / SPECIAL,,Cybrex World,Cortex
+RELIC / SPECIAL,,Cybrex World,Exolok
+RELIC / SPECIAL,,Cybrex World,Iokath
+RELIC / SPECIAL,,Nanotech World,Axon
+RELIC / SPECIAL,,Nanotech World,Helix
+RELIC / SPECIAL,,Nanotech World,Kvantum
+RELIC / SPECIAL,,Nanotech World,Cyberia
+RELIC / SPECIAL,,Nanotech World,Cortex
+RELIC / SPECIAL,,Nanotech World,Electrion
+RELIC / SPECIAL,,Nanotech World,Cyto
+RELIC / SPECIAL,,Nanotech World,Iokath
+RELIC / SPECIAL,,Shrouded World,Byss
+RELIC / SPECIAL,,Shrouded World,Somnium
+RELIC / SPECIAL,,Shrouded World,Aetheris
+RELIC / SPECIAL,,Shrouded World,Etheria
+RELIC / SPECIAL,,Shrouded World,Nocturne
+RELIC / SPECIAL,,Shrouded World,Eidos
+RELIC / SPECIAL,,Shrouded World,Myrkr
+RELIC / SPECIAL,,Shrouded World,Athiss
+RELIC / SPECIAL,,Broken World,Sunder
+RELIC / SPECIAL,,Broken World,Cruxos
+RELIC / SPECIAL,,Broken World,Crucius
+RELIC / SPECIAL,,Broken World,Exegol
+RELIC / SPECIAL,,Broken World,Rhenvar
+RELIC / SPECIAL,,Broken World,Denova
+RELIC / SPECIAL,,Shattered World,Sunder
+RELIC / SPECIAL,,Shattered World,Cruxos
+RELIC / SPECIAL,,Shattered World,Exegol
+RELIC / SPECIAL,,Shattered World,Ruusan
+RELIC / SPECIAL,,Shattered World,Denova
+RELIC / SPECIAL,,Shattered World,Rhenvar
+UNINHABITABLE,,Gas Giant,Leviathan
+UNINHABITABLE,,Gas Giant,Kraken
+UNINHABITABLE,,Gas Giant,Aegir
+UNINHABITABLE,,Gas Giant,Typhon
+UNINHABITABLE,,Gas Giant,Atlas
+UNINHABITABLE,,Gas Giant,Hyperion
+UNINHABITABLE,,Gas Giant,Cyclonis
+UNINHABITABLE,,Gas Giant,Vortexos
+STANDARD UNINHABITABLE,,Asteroid,Crait
+STANDARD UNINHABITABLE,,Asteroid,Kessel
+STANDARD UNINHABITABLE,,Asteroid,Kuat
+STANDARD UNINHABITABLE,,Asteroid,Axon
+STANDARD UNINHABITABLE,,Asteroid,Helix
+STANDARD UNINHABITABLE,,Asteroid,Ixion
+STANDARD UNINHABITABLE,,Asteroid,Cruxos
+STANDARD UNINHABITABLE,,Asteroid,Karthakk
+STANDARD UNINHABITABLE,,Asteroid,Denova
+STANDARD UNINHABITABLE,,Ice Asteroid,Ilum
+STANDARD UNINHABITABLE,,Ice Asteroid,Crythe
+STANDARD UNINHABITABLE,,Ice Asteroid,Glacien
+STANDARD UNINHABITABLE,,Ice Asteroid,Nivalis
+STANDARD UNINHABITABLE,,Ice Asteroid,Arctis
+STANDARD UNINHABITABLE,,Ice Asteroid,Rhenvar
+STANDARD UNINHABITABLE,,Rare Crystal Asteroid,Iris
+STANDARD UNINHABITABLE,,Rare Crystal Asteroid,Auralis
+STANDARD UNINHABITABLE,,Rare Crystal Asteroid,Xanthalis
+STANDARD UNINHABITABLE,,Rare Crystal Asteroid,Krysolis
+STANDARD UNINHABITABLE,,Rare Crystal Asteroid,Berylia
+STANDARD UNINHABITABLE,,Rare Crystal Asteroid,Opaline
+STANDARD UNINHABITABLE,,Rare Crystal Asteroid,Celestria
+STANDARD UNINHABITABLE,,Rare Crystal Asteroid,Lucent
+STANDARD UNINHABITABLE,,Molten,Surtr
+STANDARD UNINHABITABLE,,Molten,Phaeton
+STANDARD UNINHABITABLE,,Molten,Pyr
+STANDARD UNINHABITABLE,,Molten,Typhon
+STANDARD UNINHABITABLE,,Molten,Helior
+STANDARD UNINHABITABLE,,Molten,Ilios
+STANDARD UNINHABITABLE,,Molten,Thermalis
+STANDARD UNINHABITABLE,,Molten,Korriban
+STANDARD UNINHABITABLE,,Barren,Crait
+STANDARD UNINHABITABLE,,Barren,Kessel
+STANDARD UNINHABITABLE,,Barren,Kharon
+STANDARD UNINHABITABLE,,Barren,Byss
+STANDARD UNINHABITABLE,,Barren,Kuat
+STANDARD UNINHABITABLE,,Barren,Exegol
+STANDARD UNINHABITABLE,,Barren,Ruusan
+STANDARD UNINHABITABLE,,Barren,Rhenvar
+STANDARD UNINHABITABLE,,Barren,Denova
+STANDARD UNINHABITABLE,,Barren,Karthakk
+STANDARD UNINHABITABLE,,Cold Barren,Ilum
+STANDARD UNINHABITABLE,,Cold Barren,Crythe
+STANDARD UNINHABITABLE,,Cold Barren,Myrkr
+STANDARD UNINHABITABLE,,Cold Barren,Rhenvar
+STANDARD UNINHABITABLE,,Cold Barren,Arctis
+STANDARD UNINHABITABLE,,Cold Barren,Csilla
+STANDARD UNINHABITABLE,,Toxic,Sullust
+STANDARD UNINHABITABLE,,Toxic,Byss
+STANDARD UNINHABITABLE,,Toxic,Sarkosis
+STANDARD UNINHABITABLE,,Toxic,Virex
+STANDARD UNINHABITABLE,,Toxic,Corvaxia
+STANDARD UNINHABITABLE,,Toxic,Sykora
+STANDARD UNINHABITABLE,,Toxic,Kalypsis
+STANDARD UNINHABITABLE,,Toxic,Galavex
+STANDARD UNINHABITABLE,,Toxic,Citrix
+STANDARD UNINHABITABLE,,Frozen,Ilum
+STANDARD UNINHABITABLE,,Frozen,Glacien
+STANDARD UNINHABITABLE,,Frozen,Crythe
+STANDARD UNINHABITABLE,,Frozen,Nivalis
+STANDARD UNINHABITABLE,,Frozen,Baffin
+STANDARD UNINHABITABLE,,Frozen,Arctis
+STANDARD UNINHABITABLE,,Frozen,Rhenvar
+STANDARD UNINHABITABLE,,Nuked,Scarif
+STANDARD UNINHABITABLE,,Nuked,Byss
+STANDARD UNINHABITABLE,,Nuked,Sunder
+STANDARD UNINHABITABLE,,Nuked,Exegol
+STANDARD UNINHABITABLE,,Nuked,Rhenvar
+STANDARD UNINHABITABLE,,Nuked,Denova
+STANDARD UNINHABITABLE,,Nuked,Ruusan
+ARTIFICIAL,,Habitat,Haven
+ARTIFICIAL,,Habitat,Reach
+ARTIFICIAL,,Habitat,Frontier
+ARTIFICIAL,,Habitat,Meridian
+ARTIFICIAL,,Habitat,Eyrie
+ARTIFICIAL,,Habitat,Sentryon
+ARTIFICIAL,,Habitat,Concord
+ARTIFICIAL,,Habitat,Harmonis
+ARTIFICIAL,,Habitat,Harmony
+ARTIFICIAL,,Habitat,Anaxes
+ARTIFICIAL,,Habitat,Carida
+ARTIFICIAL,,Habitable Ringworld,Arcadia
+ARTIFICIAL,,Habitable Ringworld,Eden
+ARTIFICIAL,,Habitable Ringworld,Haven
+ARTIFICIAL,,Habitable Ringworld,Prosperis
+ARTIFICIAL,,Habitable Ringworld,Harmony
+ARTIFICIAL,,Habitable Ringworld,Meridian
+ARTIFICIAL,,Habitable Ringworld,Aurelia
+ARTIFICIAL,,Habitable Ringworld,Halcyon
+ARTIFICIAL,,Habitable Ringworld,Elysia
+ARTIFICIAL,,Habitable Ringworld,Celestria
+ARTIFICIAL,,Habitable Ringworld,Imperia
+ARTIFICIAL,,Habitable Ringworld,Omnis
+ARTIFICIAL,,Damaged Habitable Ringworld,Sunder
+ARTIFICIAL,,Ringworld Tech,Kvantum
+ARTIFICIAL,,Damaged Ringworld Tech,Vivint
+ARTIFICIAL,,Ringworld Seam,Lineara
+ARTIFICIAL,,Damaged Ringworld Seam,Vobryke
+ARTIFICIAL,,Shattered Ring Habitable,Cruxos
+ARTIFICIAL,,Cosmogenesis World,Aetheris
+GENERIC,,,Tyran
+GENERIC,,,Autega
+GENERIC,,,Ryloth
+GENERIC,,,Salvo
+GENERIC,,,Aliath
+GENERIC,,,Ancarin
+GENERIC,,,Tandria
+GENERIC,,,Genna
+GENERIC,,,Ceryn
+GENERIC,,,Tysseris
+GENERIC,,,Iris
+GENERIC,,,Cyrus
+GENERIC,,,Alterra
+GENERIC,,,Valen
+GENERIC,,,Taris
+GENERIC,,,Telos
+GENERIC,,,Veridian
+GENERIC,,,Zurna
+GENERIC,,,Alsor
+GENERIC,,,Behtle
+GENERIC,,,Kapella
+GENERIC,,,Alphex
+GENERIC,,,Asperia
+GENERIC,,,Artemis
+GENERIC,,,Apollo
+GENERIC,,,Callisto
+GENERIC,,,Europa
+GENERIC,,,Kore
+GENERIC,,,Cygnus
+GENERIC,,,Mythos
+GENERIC,,,Neraxis
+GENERIC,,,Lyra
+GENERIC,,,Kyros
+GENERIC,,,Syr
+GENERIC,,,Paleon
+GENERIC,,,Vaelis
+GENERIC,,,Orith
+GENERIC,,,Zypher
+GENERIC,,,Belyra
+GENERIC,,,Cyrel
+GENERIC,,,Delyth
+GENERIC,,,Havrix
+GENERIC,,,Kalyx
+GENERIC,,,Lythos
+GENERIC,,,Myrel
+GENERIC,,,Rhyxis
+GENERIC,,,Soren
+GENERIC,,,Ulyth
+GENERIC,,,Wyrix
+GENERIC,,,Calixis
+GENERIC,,,Amistel
+GENERIC,,,Anzyra
+GENERIC,,,Archos
+GENERIC,,,Arkost
+GENERIC,,,Cantus
+GENERIC,,,Cindari
+GENERIC,,,Corolis
+GENERIC,,,Vanador
+GENERIC,,,Diya
+GENERIC,,,Amber
+GENERIC,,,Surluse
+GENERIC,,,Nin
+GENERIC,,,Kisin
+GENERIC,,,Thena
+GENERIC,,,Elatha
+GENERIC,,,Verbeia
+GENERIC,,,Talon
+GENERIC,,,Sjora
+GENERIC,,,Lycon
+GENERIC,,,Llyke
+GENERIC,,,Kallan
+GENERIC,,,Valis
+GENERIC,,,Taleos
+GENERIC,,,Avkien
+GENERIC,,,Zertos
+GENERIC,,,Wimeaux
+GENERIC,,,Ithon
+GENERIC,,,Thulara
+GENERIC,,,Thotera
+GENERIC,,,Elvora
+GENERIC,,,Areclite
+GENERIC,,,Achov
+GENERIC,,,Kavaris
+GENERIC,,,Merylis
+GENERIC,,,Vandris
+GENERIC,,,Vekrion
+GENERIC,,,Marekion
+GENERIC,,,Xayrien
+GENERIC,,,Synra
+GENERIC,,,Kavra
+GENERIC,,,Mynos
+GENERIC,,,Amleth
+GENERIC,,,Andros
+GENERIC,,,Arestel
+GENERIC,,,Solis
+GENERIC,,,Ethos
+GENERIC,,,Vertia
+GENERIC,,,Astralis
+GENERIC,,,Calista
+GENERIC,,,Ecryke
+GENERIC,,,Aethel
+GENERIC,,,Valerion
+GENERIC,,,Kestrel
+GENERIC,,,Soveren
+GENERIC,,,Erilla
+GENERIC,,,Saion
+GENERIC,,,Kenere
+GENERIC,,,Taria
+GENERIC,,,Synor
+GENERIC,,,Archon
+GENERIC,,,Eldri
+GENERIC,,,Coronix
+GENERIC,,,Vandor
+GENERIC,,,Thronos
+GENERIC,,,Galavex
+GENERIC,,,Imperia
+GENERIC,,,Kaleido
+GENERIC,,,Lustre
+GENERIC,,,Rever
+GENERIC,,,Vobryke
+GENERIC,,,Cealdi
+GENERIC,,,Vana
+GENERIC,,,Voperan
+GENERIC,,,Lera
+GENERIC,,,Ceti
+GENERIC,,,Antilla
+GENERIC,,,Ketnia
+GENERIC,,,Antania
+GENERIC,,,Vesara
+GENERIC,,,Eraka
+GENERIC,,,Xytes
+GENERIC,,,Arceria
+GENERIC,,,Anic
+GENERIC,,,Sidian
+GENERIC,,,Altium
+GENERIC,,,Oktaria
+GENERIC,,,Aventon
+GENERIC,,,Sabren
+GENERIC,,,Theon
+GENERIC,,,Antex
+GENERIC,,,Viatris
+GENERIC,,,Atlax
+GENERIC,,,Lineara
+GENERIC,,,Eidos
+GENERIC,,,Thesara
+GENERIC,,,Ardelis
+GENERIC,,,Ceryx
+GENERIC,,,Adraste
+GENERIC,,,Kaelor
+GENERIC,,,Koboh
+GENERIC,,,Savis
+GENERIC,,,Rishi
+GENERIC,,,Odessen
+GENERIC,,,Sulon
+GENERIC,,,Zonoma
+GENERIC,,,Sekot
+GENERIC,,,Alaris
+GENERIC,,,Axila
+GENERIC,,,Carida
+GENERIC,,,Armia
+GENERIC,,,Csilla
+GENERIC,,,Kira
+GENERIC,,,Mizra
+GENERIC,,,Thyferra
+GENERIC,,,Kiridon
+GENERIC,,,Comisky
+GENERIC,,,Muscata
+GENERIC,,,Avon
+GENERIC,,,Pinelan
+GENERIC,,,Luray
+GENERIC,,,Archer
+GENERIC,,,Salem
+GENERIC,,,Antrim
+GENERIC,,,Miverva
+GENERIC,,,Wyan

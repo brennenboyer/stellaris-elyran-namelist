@@ -1,60 +1,55 @@
-# 🌌 Elyran Name List (Planetary Diversity Dependency)
+# 🌌 Elyran Name List
 
-Welcome to the official repository for the **Elyran Name List** mod for Stellaris. This page contains the complete source code, folder layout, and interactive database files cataloging every name in the compilation.
+The **Elyran Name List** is a Stellaris mod with names for ships, planets, characters, species, stars, homeworlds, fleets, and armies. Its planet names cover vanilla worlds and **Planetary Diversity** variants.
 
-## 🚀 Steam Workshop Link
-* 👉 **[Click here to view this Mod on the Steam Workshop](https://steamcommunity.com)**
+This repository makes the name data easy to browse and reuse. Open any CSV below to see the full list in GitHub's file viewer, or download it for a spreadsheet program.
 
----
+## 📋 Browse the names
 
-## 📋 Complete Scrollable Namelist Sheets
-Because the Elyran dataset contains thousands of separate custom variations, the full content is broken up into completely scrollable interactive matrices below. Click on any file to open up the scroll screens natively inside your web browser:
+| File | Contents |
+| :--- | :--- |
+| 🛸 [ships.csv](./ships.csv) | Ship names and ship class names, grouped by type. |
+| 🪐 [planets.csv](./planets.csv) | One name per row, with climate zone, core biome, and planet variant. Includes generic names. |
+| 👥 [people.csv](./people.csv) | First and second names, including regnal names. |
+| 🧬 [species.csv](./species.csv) | Species names with plural and adjective forms. |
+| ✨ [stars-homeworlds.csv](./stars-homeworlds.csv) | Star and homeworld name pools. |
+| 🪖 [fleets-armies.csv](./fleets-armies.csv) | Fleet names and army names by type. |
 
-* 🪐 **[Click here to view the complete Planet Biome & World Dataset](./planetary-diversity-database.csv)** *(Featuring all Planetary Diversity variants, Cavern worlds, Eyeball/Tidally Locked biomes, and unique sub-classes!)*
-* 🛸 **[Click here to view Starship Classes & Combined Fleets](./starships-and-fleets.csv)**
-* 👥 **[Click here to view Character Nomenclature & Royal Dynasties](./characters-and-dynasties.csv)**
-* 🪖 **[Click here to view Combined Ground Forces & Catalyst Systems](./armies-and-species-catalyst.csv)**
+Each file comes from the corresponding sheet in the Elyran workbook. Blank cells in the wide category sheets mean that category has no name on that row; they do **not** indicate a relationship between names in different columns. `planets.csv` rearranges the workbook's wide matrix into a searchable list. A blank biome or variant means the source did not specify one, as with generic names.
 
----
-
-## 🔍 Quick Previews
-Click on any of the categories below to expand a short preview snippet of the database layout.
+## 🔍 Quick previews
 
 <details>
-<summary>🪐 1. Planetary Diversity Biome Matrix Preview (Click to expand)</summary>
+<summary>🪐 Planet names</summary>
 
-| Climate Zone | Core Planet Biome | PD Regional Variant | Designation Variant Alpha | Designation Variant Beta |
-| :--- | :--- | :--- | :--- | :--- |
-| **WET** | Continental | Retinal | Iris | Aurora |
-| **WET** | Continental | Lake | Halea | Eden |
-| **WET** | Continental | Forest | Verdant | Sylvaris |
-| **WET** | Ocean | Mushroom | Myrkr | Iskera |
-| **DRY** | Desert | Dune | Surtr | Haven |
-| **DRY** | Arid | Mesa | Mesa | Byss |
-| **COLD** | Arctic | Ice Spike | Crythe | Glacien |
-| **CAVERN** | Gaia Cavern | Wet Cavern | Eden | Eden |
+| Climate Zone | Core Planet Biome | Planet Variant | Planet Name |
+| :--- | :--- | :--- | :--- |
+| WET | Continental | Retinal | Iris |
+| WET | Continental | Retinal | Aurora |
+| WET | Continental | Lake | Halea |
+| WET | Continental | Forest | Verdant |
+| DRY | Desert | Dune | Surtr |
 
-*(The complete layout features deep optimization rules automatically naming custom variants including Superhabitables, Subglacial Hydrocarbons, Chthonian relics, and Ringworld fragments!)*
 </details>
 
 <details>
-<summary>🛸 2. Spacecraft & Fleet Title Preview (Click to expand)</summary>
+<summary>🛸 Ship names</summary>
 
 | Construction | Science | Colonizer | Corvette | Destroyer | Cruiser | Battleship | Titan |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Sanctuary | Inspiration | Haven | Who Dares Wins | Point of No Return | Crusading Spirit | Wrath | Spirit of Fire |
 | Sojourner | Faith | Solace | Shall Not Perish | Unto the Breach | Light of Faith | Revelation | Shadow of Intent |
-| Opportunity | Wonder | Sanctuary | Only the Good | Dying Light | Light of Ascension | Judgement | Forward unto Dawn |
 
 </details>
 
----
+## 🛠️ Using the data
 
-## 🛠️ Mod Architecture & Structure
-Other modders are free to look over the directory layout below to see how localization files tie into the **Planetary Diversity** hooks:
-* `/common/name_lists/` — Contains the internal backend game variables matching structural lists.
-* `/localisation/` — Holds the translated string descriptions for seamless in-game rendering.
-* `elyrannamelistnscpd.zip` — Compiled binary build ready for production profiling.
+The CSVs are reference data. If you are adapting the names for a Stellaris mod, put them into the game's name list and localisation format; Stellaris does not load these CSVs directly. The columns in the wide files represent separate name pools, so keep their category labels when converting them.
+
+## 🚀 Steam Workshop
+
+**Steam Workshop page:** Add the actual workshop URL here after publishing or share the link in the repository's About section. Do not use a generic Steam homepage link.
 
 ## 📄 License
-This project is shared under the **MIT License**. You are entirely free to copy, modify, and integrate this code into your own Stellaris creations, provided original attribution credit is maintained.
+
+Released under the [MIT License](./LICENSE). You may use, modify, and redistribute the data with the required copyright and license notice.
