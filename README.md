@@ -1,64 +1,51 @@
 # 🌌 Elyran Name List (Planetary Diversity Dependency)
 
-Welcome to the official repository for the **Elyran Name List** mod for Stellaris. This page contains the complete source code, folder layout, and links to interactive databases for every custom name included in this pack.
+Welcome to the official repository for the **Elyran Name List** mod for Stellaris. This page contains the complete source code, folder layout, and interactive database files cataloging every name in the compilation.
 
 ## 🚀 Steam Workshop Link
 * 👉 **[Click here to view this Mod on the Steam Workshop](https://steamcommunity.com)**
 
 ---
 
-## 📋 Comprehensive Namelist Worksheets
-The complete Elyran dataset contains thousands of names! Since the dataset stretches down hundreds of rows, you can browse the fully scrollable, interactive databases directly inside your web browser here:
+## 📋 Complete Scrollable Namelist Sheets
+Because the Elyran dataset contains thousands of separate custom variations, the full content is broken up into completely scrollable interactive matrices below. Click on any file to open up the scroll screens natively inside your web browser:
 
-* 🛸 **[Click here to view Starship & Fleet Class Names](./starships-and-fleets.csv)**
-* 👥 **[Click here to view Character Names & Imperial Dynasties](./characters-and-dynasties.csv)**
-* 🪖 **[Click here to view Armies, Species, & Celestial Catalyst Registries](./armies-and-species-catalyst.csv)**
+* 🪐 **[Click here to view the complete Planet Biome & World Dataset](./planetary-diversity-database.csv)** *(Featuring all Planetary Diversity variants, Cavern worlds, Eyeball/Tidally Locked biomes, and unique sub-classes!)*
+* 🛸 **[Click here to view Starship Classes & Combined Fleets](./starships-and-fleets.csv)**
+* 👥 **[Click here to view Character Nomenclature & Royal Dynasties](./characters-and-dynasties.csv)**
+* 🪖 **[Click here to view Combined Ground Forces & Catalyst Systems](./armies-and-species-catalyst.csv)**
 
 ---
 
 ## 🔍 Quick Previews
-Click on any of the categories below to expand a short preview sample of what is inside the data files.
+Click on any of the categories below to expand a short preview snippet of the database layout.
 
 <details>
-<summary>🛸 1. Spacecraft & Starship Class Preview (Click to expand)</summary>
+<summary>🪐 1. Planetary Diversity Biome Matrix Preview (Click to expand)</summary>
 
-| Construction | Science | Colonizer | Sponsored Colonizer | Corvette | Destroyer | Cruiser | Battleship | Titan | Colossus | Juggernaut | Transport | Defense Platform | Ion Cannon |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Sanctuary | Inspiration | Haven | Haven | Who Dares Wins | Point of No Return | Crusading Spirit | Wrath | Spirit of Fire | Leviathan | Marathon | Conveyance | Redoubt | Obliterator |
-| Sojourner | Faith | Solace | Solace | Shall Not Perish | Unto the Breach | Light of Faith | Revelation | Shadow of Intent | Harbinger | Justice | Lifter | Ward | Anvil |
-| Opportunity | Wonder | Sanctuary | Sanctuary | Only the Good | Dying Light | Light of Ascension | Judgement | Forward unto Dawn | Overlord | Fury | Carrier | Palisade | Thunderhead |
-| Providence | Hope | Promise | Promise | Seeker of Fortune | To Boldly Go | Guiding Hand | Retribution | All Under Heaven | Paragon | Dominion | Convoy | Strongpoint | Hammerfall |
-| Salvation | Curiosity | Dawn | Dawn | Arm of the Law | Swift Reckoning | Steadfast Resolve | Vengeance | Pillar of Autumn | Cataclysm | Sentinel | Transitor | Shieldpost | Starbreaker |
+| Climate Zone | Core Planet Biome | PD Regional Variant | Designation Variant Alpha | Designation Variant Beta |
+| :--- | :--- | :--- | :--- | :--- |
+| **WET** | Continental | Retinal | Iris | Aurora |
+| **WET** | Continental | Lake | Halea | Eden |
+| **WET** | Continental | Forest | Verdant | Sylvaris |
+| **WET** | Ocean | Mushroom | Myrkr | Iskera |
+| **DRY** | Desert | Dune | Surtr | Haven |
+| **DRY** | Arid | Mesa | Mesa | Byss |
+| **COLD** | Arctic | Ice Spike | Crythe | Glacien |
+| **CAVERN** | Gaia Cavern | Wet Cavern | Eden | Eden |
 
-*(Note: Hundreds of additional custom tactical titles like "Hold the Line", "No Retreat Given", and "Edge of Reason" are built dynamically into the main data file!)*
+*(The complete layout features deep optimization rules automatically naming custom variants including Superhabitables, Subglacial Hydrocarbons, Chthonian relics, and Ringworld fragments!)*
 </details>
 
 <details>
-<summary>🪐 2. Planetary Diversity & World Preview (Click to expand)</summary>
+<summary>🛸 2. Spacecraft & Fleet Title Preview (Click to expand)</summary>
 
-| Planet Class | Regional Variant | Mythological Designation (A) | Mythological Designation (B) | Faction Anchor (C) | System Hub (D) | Sector Hub (E) |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Continental | Retinal | Iris | Aurora | Auralis | Kaleido | Lucent |
-| Continental | Lake | Halea | Eden | Haven | Harmony | Demeter |
-| Continental | Forest | Verdant | Sylvaris | Harvest | Veridian | Verdan |
-| Continental | Tepid | Eden | Harmonis | Harmony | Haven | Gaea |
-| Ocean | Mushroom | Myrkr | Iskera | Soryth | Karkaris | Sarkosis |
+| Construction | Science | Colonizer | Corvette | Destroyer | Cruiser | Battleship | Titan |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Sanctuary | Inspiration | Haven | Who Dares Wins | Point of No Return | Crusading Spirit | Wrath | Spirit of Fire |
+| Sojourner | Faith | Solace | Shall Not Perish | Unto the Breach | Light of Faith | Revelation | Shadow of Intent |
+| Opportunity | Wonder | Sanctuary | Only the Good | Dying Light | Light of Ascension | Judgement | Forward unto Dawn |
 
-*(Fully integrated to handle specialized Planetary Diversity variants including Cavern Worlds, Tidally Locked Hemispheres, Exotic/Exogol classes, Relic Worlds, and Artificial Megastructures!)*
-</details>
-
-<details>
-<summary>👥 3. Character Names & Regnal Dynasties Preview (Click to expand)</summary>
-
-### Standard Citizen Nomenclature
-* **Male First Names:** Aren, Calen, Darik, Joren, Kael, Larek, Maren, Rykon, Sethis, Torin, Varek, Xalen...
-* **Female First Names:** Aria, Lyra, Vela, Nyra, Kira, Alara, Selene, Maris, Talia, Elira, Rynna, Saren...
-* **Surnames / Second Names:** Valeris, Kaelorn, Soryn, Tavrek, Orendis, Halvek, Cindral, Varyx, Telmar, Avenor...
-
-### Imperial Regnal Formats
-* **Male Monarchs:** Aleron, Aurek, Caelor, Edrik, Daarion, Maeron, Rhaelor, Theron, Tiberan, Vaelor...
-* **Female Monarchs:** Aelyra, Aurelia, Calyra, Elaria, Elaryn, Ilyra, Kaerith, Lyssara, Maerith, Naelyra...
-* **Royal Dynasty Surnames:** Valecor, Caelorn, Teryndor, Loraven, Talvaren, Vaelorn, Ardelon, Otharyn...
 </details>
 
 ---
