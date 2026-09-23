@@ -3,7 +3,7 @@
 Welcome to the official repository for the **Elyran Name List** mod for Stellaris. This page contains the complete source code, folder layout, and an interactive database breakdown of every custom name included in this pack.
 
 ## 🚀 Steam Workshop Link
-* 👉 **[Click here to view this Mod on the Steam Workshop](YOUR_STEAM_LINK_HERE)**
+* 👉 **[Click here to view this Mod on the Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3806576947)**
 
 ---
 
