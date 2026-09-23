@@ -48,8 +48,26 @@ The CSVs are reference data. If you are adapting the names for a Stellaris mod, 
 
 ## 🚀 Steam Workshop
 
-**Steam Workshop page:** Add the actual workshop URL here after publishing or share the link in the repository's About section. Do not use a generic Steam homepage link.
+👉 [Elyran Name List on the Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3806576947)
 
 ## 📄 License
 
 Released under the [MIT License](./LICENSE). You may use, modify, and redistribute the data with the required copyright and license notice.
+
+## 🕶️ Stealth Mod Menu (development build)
+
+The Elyran development build also contains the **Meridian Stealth Mod Menu**, an optional set of multiplayer admin and testing controls. On a new multiplayer game, the first human player to receive configuration authority gets a choice to enable the controls or continue with standard settings. The edicts are hidden from AI and from players without admin access. This is an experimental compatibility mode; it may affect stability and save compatibility.
+
+<details>
+<summary>View Stealth Mod Menu features</summary>
+
+- **Stealth and intelligence:** Omega Cloaking Theory and its +10 Cloaking Strength generator; cloak controls for supported juggernauts, civilian, colony, logistics, and engineer ships; a one-click Omega unlock; cloaking strength, encryption, codebreaking, sensor coverage, first-contact and spy-network acceleration, and espionage boosts. The Sensor Jamming unlock adds the Veilkeeper Array starbase building, which blocks outside sensor scanning into its system and weakens hostile ships there.
+- **Exploration and travel:** Reveal or survey the galaxy, accelerate surveys and anomaly research, establish communications, boost movement, and enable long-range Tactical Jumps.
+- **Economy and development:** Toggle resource and Influence generation, Minor Artifact and Astral Thread production, extra storage, research speed, faster construction, fleet upgrades, colony development, terraforming, and population growth. Planet decisions clear blockers, add district capacity, or apply Planetary Perfection.
+- **Leaders and empire:** Expand leader capacity, adjust upkeep and experience gain, remove negative traits, raise leaders to level 10, increase Edict Fund, reduce Empire Size, control stability and crime, and boost naval and starbase capacity.
+- **War and diplomacy:** Admin fleet sustainment, emergency war mobilization, several Diplomatic Weight tiers, Federation Cohesion and XP controls, Galactic Favors, and Galactic Community proposal controls.
+- **Utilities:** Policy and relic cooldown controls, repeated relic activations, and a one-shot Stealth Reset that reduces unusually large stockpiles.
+
+Most ongoing effects are toggleable edicts; one-shot unlocks and resets are labeled separately in game. The included Omega integration expects **NSC3** to load first and uses **First Contact** for the custom cloak controls. The development archive was used to document these features; its mod files are not included in this repository.
+
+</details>
